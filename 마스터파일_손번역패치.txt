@@ -1,6 +1,6 @@
 ﻿hand
 Acrobat
-아크로바트2
+아크로바트
 
 hand
 Chem Head
@@ -12,7 +12,7 @@ Claustrophobic
 
 hand
 Four Eyes
-네 개의 눈
+네눈박이
 
 hand
 Gifted

@@ -432,6 +432,80 @@ def Patch(file_path, replace_path, write_file_path):
         write_file.write('\n')
     write_file.close()
 
+def ChecktranslatedFile(file_path):
+
+    tag_string_array = []
+    eng_string_array = []
+    kor_string_array = []
+    
+    with open(file_path, 'r', encoding='utf-8-sig') as file:
+        count = 0
+        step = 0
+        empty_string = ''
+        tag_string = ''
+        eng_string = ''
+        kor_string = ''
+        linecount = 0
+        for line in file:
+            input_string = line.strip()
+            output_string = input_string;
+            if step==0:
+                tag_string = output_string;
+            if step==1:
+                eng_string = output_string;
+            if step==2:
+                kor_string = output_string;
+            if step==3:
+                empty_string = output_string;
+                if len(empty_string)>0:
+                    print(empty_string)
+                    
+            count=count + 1
+            step = step + 1
+            if step==4:
+                step = 0
+                if len(eng_string)*3<len(kor_string):
+                    print(eng_string)
+                    print(kor_string)
+                if eng_string.startswith('[')==True:
+                    if kor_string.startswith('[')==False:
+                        print(eng_string)
+                        print(kor_string)
+                    
+
+                #원문에 < 가 없는데 <를 포함한 번역으로 해주는 경우 바꾸
+                #if eng_string.find('<')==-1:
+                #    if kor_string.find('<')>=0:
+                #        print(eng_string)
+                #        print(kor_string)
+
+                #원문에 >/ 가 사라지는 문장 확인
+                if eng_string.find('>/')>=0:
+                    if kor_string.find('>/')==-1:
+                        print(eng_string)
+                        print(kor_string)
+
+                if eng_string.find('<Alias')>=0:
+                    if kor_string.find('<Alias')==-1:
+                        print(eng_string)
+                        print(kor_string)
+
+                if eng_string.find('SMYTHE')>=0:
+                    if kor_string.find('스마이스')==-1:
+                        print(eng_string)
+                        print(kor_string)
+
+                if eng_string.find('SMYTHE')>=0:
+                    if kor_string.find('스마이스')==-1:
+                        print(eng_string)
+                        print(kor_string)
+                        
+                if eng_string.find('Isle of Dogs')>=0:
+                    if kor_string.find('개들의 섬')==-1:
+                        print(eng_string)
+                        print(kor_string)
+
+            linecount = linecount + 1
 
 def main():
     
@@ -480,15 +554,17 @@ def main():
         if len(sys.argv) < 4:
             print("Usage: python script.py <argument>")
             sys.exit(1)
-        CheckXMLFinal(sys.argv[2],sys.argv[3])            
+        CheckXMLFinal(sys.argv[2],sys.argv[3])
+
     else:
 
         #XML2TextUnique(0,"LondonWorldSpace_1.01_org_en_en.xml","out.txt")
         #TwoFile2OneFile("DeepL","번역기용문장.txt","번역된문장.txt","메인텍스트.txt")
         
-        TXT2XMLString("메인소스_팀왈도폴아웃4.txt", "LondonWorldSpace_1.01_org.xml", "LondonWorldSpace_1.01_org_out.xml", 0)
-        TXT2XMLString("메인소스_폴런던기계번역문장.txt", "LondonWorldSpace_1.01_org_out.xml", "LondonWorldSpace_1.01_org_xTranslator입력용.xml", 1)
+        #TXT2XMLString("메인소스_팀왈도폴아웃4.txt", "LondonWorldSpace_1.01_org.xml", "LondonWorldSpace_1.01_org_out.xml", 0)
+        #TXT2XMLString("메인소스_폴런던기계번역문장.txt", "LondonWorldSpace_1.01_org_out.xml", "LondonWorldSpace_1.01_org_xTranslator입력용.xml", 1)
         
+        ChecktranslatedFile("마스터파일_폴런던기계번역문장.txt")
         #Patch("메인소스_폴런던기계번역문장.txt","메인소스_손번역패치.txt","메인소스_폴런던기계번역문장2.txt")
         #CheckXMLFinal("LondonWorldSpace_1.01_org_xTranslator입력용.xml","번역안하는스트링(확인용).txt")
 
