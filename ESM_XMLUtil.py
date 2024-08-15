@@ -504,6 +504,16 @@ def ChecktranslatedFile(file_path):
                     if kor_string.find('개들의 섬')==-1:
                         print(eng_string)
                         print(kor_string)
+                        
+                if eng_string.find('Mittenlurk')>=0:
+                    if kor_string.find('미텐러크')==-1:
+                        print(eng_string)
+                        print(kor_string)
+                        
+                if eng_string.find('Chum')>=0:
+                    if kor_string.find('첨')==-1:
+                        print(eng_string)
+                        print(kor_string)
 
             linecount = linecount + 1
 

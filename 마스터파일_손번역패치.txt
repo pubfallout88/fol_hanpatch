@@ -1,6 +1,6 @@
 ﻿hand
 Acrobat
-아크로바트
+곡예사
 
 hand
 Chem Head
@@ -8,7 +8,7 @@ Chem Head
 
 hand
 Claustrophobic
-밀실 공포증
+폐소공포증
 
 hand
 Four Eyes
@@ -24,7 +24,7 @@ Heavy Handed
 
 hand
 Hoarder
-더러운물건수집가
+사재기꾼
 
 hand
 Kamikaze
@@ -32,17 +32,17 @@ Kamikaze
 
 hand
 Night Owl
-밤 올빼미
+올빼미
 
 hand
 Numbskull
-바보같은 사람
+띨띨이
 
 hand
 Puritan
-순결주의자
+청교도
 
 hand
 Sleepwalker
-몽유병자
+몽유병 환자
 
