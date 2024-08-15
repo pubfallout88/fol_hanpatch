@@ -1,0 +1,2 @@
+python ESM_XMLUtil.py --check_unchanged_string LondonWorldSpace_1.01_org_xTranslator입력용_지워도됨.xml 번역안하는스트링_확인용_지워도됨.txt
+

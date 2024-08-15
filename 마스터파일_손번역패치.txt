@@ -1,0 +1,48 @@
+﻿hand
+Acrobat
+아크로바트2
+
+hand
+Chem Head
+화학 두뇌
+
+hand
+Claustrophobic
+밀실 공포증
+
+hand
+Four Eyes
+네 개의 눈
+
+hand
+Gifted
+영재
+
+hand
+Heavy Handed
+무거운 손
+
+hand
+Hoarder
+더러운물건수집가
+
+hand
+Kamikaze
+가미카제
+
+hand
+Night Owl
+밤 올빼미
+
+hand
+Numbskull
+바보같은 사람
+
+hand
+Puritan
+순결주의자
+
+hand
+Sleepwalker
+몽유병자
+
