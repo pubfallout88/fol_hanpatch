@@ -1,0 +1,5864 @@
+﻿Deepl
+Dogmeat
+도그밋
+
+Deepl
+Companion
+동료
+
+Deepl
+Enter the shipwreck
+난파선 안으로 들어가기
+
+Deepl
+Kill the raider boss
+침입자 우두머리 처치하기
+
+Deepl
+Find Archie in Rotherhithe
+로더히테에서 아치 찾기
+
+Deepl
+Destroy the nests
+둥지 파괴하기
+
+Deepl
+Speak to Archie
+아치와 대화하기
+
+Deepl
+Return to the Ferryman
+페리맨에게 돌아가기
+
+Deepl
+Lower the crane bridge
+크레인 다리 내리기
+
+Deepl
+Open the gate
+게이트 열기
+
+Deepl
+Get on the Ferryman's boat
+페리맨의 배에 탑승하기
+
+Deepl
+Enjoy the ride
+라이딩 즐기기
+
+Deepl
+Get off the boat
+배에서 내리기
+
+Deepl
+Meet Archie and the Ferryman at the fishing dock
+낚시터에서 아치와 페리맨을 만나보기
+
+Deepl
+(Optional) Investigate Tower Bridge
+(선택 사항) 타워 브리지 조사하기
+
+Deepl
+Activate the beacon
+비콘 활성화
+
+Deepl
+Speak to the Ferryman
+페리맨과 대화하기
+
+Deepl
+Explore the Monument Lab
+기념비 연구소 탐험하기
+
+Deepl
+Investigate the noise
+소음 조사하기
+
+Deepl
+Find a way to open the door
+문을 열 방법을 찾기
+
+Deepl
+Turn on the power
+전원 켜기
+
+Deepl
+Unlock the door
+문 잠금 해제
+
+Deepl
+Fight the abomination
+괴물과 싸우기
+
+Deepl
+Return to Archie and the Ferryman
+아치와 페리맨으로 돌아가기
+
+Deepl
+Find Thameshaven
+템즈헤븐 찾기
+
+Deepl
+Speak to the Tommy guard
+토미 경비병에게 말하기
+
+Deepl
+Enter the south entrance
+남쪽 입구로 들어가기
+
+Deepl
+Speak to Rachel Hall
+레이첼 홀과 대화하기
+
+Deepl
+Speak to the Thamesfolk leader
+템즈포크 지도자와 대화하기
+
+Deepl
+Jump down the elevator shaft
+엘리베이터 통로에서 뛰어내리기
+
+Deepl
+Find the Ferryman
+페리맨 찾기
+
+Deepl
+Save the Ferryman
+페리맨 구하기
+
+Deepl
+Seal the breach in the abandoned district
+버려진 구역을 봉쇄하기
+
+Deepl
+Run!
+도망가요!
+
+Deepl
+Report back to Rachel
+레이첼에게 보고하기
+
+Deepl
+Visit the Ferryman in the infirmary
+의무실에 있는 페리맨을 찾아가기.
+
+Deepl
+Travel to St Paul's Sanctuary
+세인트 폴 성역으로 여행하기
+
+Deepl
+Speak with the guard
+경비병과 대화하기
+
+Deepl
+Defeat the Hooligans
+훌리건 처치하기
+
+Deepl
+Speak to the Frenchman
+프렌치맨과 대화하기
+
+Deepl
+Kill the Hooligan leader
+훌리건 지도자 처치하기
+
+Deepl
+Return to the Frenchman
+프렌치맨에게 돌아가기
+
+Deepl
+Speak with Bishop Whaler
+주교 월러와 대화하기
+
+Deepl
+Make your way through the Bank of England
+영국은행 통과하기
+
+Deepl
+Travel to Imperial War Museum
+제국 전쟁 박물관으로 여행하기
+
+Deepl
+Follow the Colonel
+대령을 따라가기
+
+Deepl
+Clear out the Bank of England
+영국 은행 정리하기
+
+Deepl
+(Optional) Ask the Frenchman for help
+(선택 사항) 프랑스인에게 도움 요청하기
+
+Deepl
+Report back to Colonel
+대령에게 보고하기
+
+Deepl
+Go to Islington
+이슬링턴으로 가
+
+Deepl
+Find the entrance to the Station
+역 입구 찾기
+
+Deepl
+Journey through the Station
+정거장 여행하기
+
+Deepl
+Explore the Angel lab
+앤젤 실험실 탐험하기
+
+Deepl
+Stop the self-destruct sequence
+자폭 시퀀스 중지하기
+
+Deepl
+Traverse the Tube tunnel
+튜브 터널 통과하기
+
+Deepl
+Speak to Father Luke
+루크 신부님과 이야기하기
+
+Deepl
+Investigate Lazarus' belongings
+라자루스의 소지품 조사하기
+
+Deepl
+Return to Father Luke
+루카 신부에게 돌아가기
+
+Deepl
+Figure out who "bones" is
+"뼈"가 누구인지 알아내기
+
+Deepl
+Speak to the undertaker's assistant
+장의사의 조수와 대화하기
+
+Deepl
+Investigate Christopher's belongings
+크리스토퍼의 소지품 조사하기
+
+Deepl
+Confront Christopher
+크리스토퍼와 대면하기
+
+Deepl
+Consult Reverend Francis
+프란시스 목사와 상담하기
+
+Deepl
+Find Lazarus' stash
+라자루스의 은신처 찾기
+
+Deepl
+Travel to Beefeater Burger
+비피터 버거로 여행하기
+
+Deepl
+Search for clues in the restaurant
+식당에서 단서 찾기
+
+Deepl
+Listen to the holotape
+홀로테이프 듣기
+
+Deepl
+Investigate Wintergarden
+윈터가든 조사하기
+
+Deepl
+Free Lazarus
+라자루스 풀어주기
+
+Deepl
+Speak to Lazarus
+라자루스와 대화하기
+
+Deepl
+Escape the facility
+시설 탈출하기
+
+Deepl
+Pick up the device
+장치를 집기
+
+Deepl
+Pick up the torch
+토치를 들기
+
+Deepl
+Use the lift
+리프트 사용하기
+
+Deepl
+Find a way out
+탈출구 찾기
+
+Deepl
+Check out your room in Thameshaven
+템즈헤븐의 방을 확인하기
+
+Deepl
+(Optional) Visit the Vagabonds after investigating Thameshaven
+(선택 사항) 템즈해븐 조사 후 베가본드를 찾아가기.
+
+Deepl
+Follow the Vagabonds
+베가본드를 따라가기
+
+Deepl
+Find the medkit inside Greenwich Station
+그리니치 역에서 구급상자 찾기
+
+Deepl
+Return to Ricky
+리키에게 돌아가기.
+
+Deepl
+Travel to Swan & Mitre
+스완 & 미터로 여행하기
+
+Deepl
+Defend the Swan & Mitre
+스완 & 미터 방어하기
+
+Deepl
+Talk to Yvette
+이베트와 대화하기
+
+Deepl
+Kill Syndicate scout
+신디케이트 정찰대 처치하기
+
+Deepl
+Return to Yvette
+이베트에게 돌아가기
+
+Deepl
+Talk to Nelson
+넬슨과 대화하기
+
+Deepl
+Ask Winston about radio parts
+윈스턴에게 무전기 부품에 대해 물어보기
+
+Deepl
+Find out why Nadia's delivery is late
+나디아의 배달이 늦어진 이유 알아내기
+
+Deepl
+Speak to Nadia
+나디아와 대화하기
+
+Deepl
+Return to Winston
+윈스턴에게 돌아가기
+
+Deepl
+Ask Anthony to fix the radio
+앤서니에게 무전기를 고쳐달라고 부탁하기
+
+Deepl
+Find or buy a crystalline photon agitator
+결정 광자 교반기를 찾거나 구입하기
+
+Deepl
+Bring a crystaline photon agitator to Anthony
+앤서니에게 수정 광자 교반기를 가져오기
+
+Deepl
+Ask Johnny Shrapnel for a battery
+조니 파편에게 배터리 달라고 부탁하기
+
+Deepl
+Deliver Johnny's apology gift
+조니의 사과 선물 전달하기
+
+Deepl
+Return to Johnny
+조니에게 돌아가기
+
+Deepl
+Return to Nelson
+넬슨에게 돌아가기
+
+Deepl
+Go to the Science Museum
+과학 박물관으로 이동
+
+Deepl
+Find Mr. X
+미스터 X 찾기
+
+Deepl
+Confront Mr. X
+미스터 X와 대면
+
+Deepl
+(Optional) Destroy the Angel research before you leave
+(선택 사항) 떠나기 전에 앤젤 연구를 파괴하기
+
+Deepl
+Find a BED kit in Newham Pindar Station
+뉴햄 핀다르 역에서 침대 키트 찾기
+
+Deepl
+Use the BED kit to defuse the landmine
+침대 키트를 사용해 지뢰를 해체하기
+
+Deepl
+Find John Marsh at St. Paul's Sanctuary
+세인트 폴 성역에서 존 마쉬를 찾기
+
+Deepl
+Travel to the London City Airport
+런던 시티 공항으로 이동
+
+Deepl
+Find Jane Marsh
+제인 마쉬 찾기
+
+Deepl
+Kill Jane Marsh
+제인 마쉬를 죽이기
+
+Deepl
+Return to John Marsh
+존 마쉬에게 돌아가기
+
+Deepl
+Visit the graveyard
+묘지 방문하기
+
+Deepl
+Return to Miller
+밀러에게 돌아가기
+
+Deepl
+(Optional) Visit the Vagabonds
+(선택 사항) 베가본드 방문하기
+
+Deepl
+Get to Croydon Post Office
+크로이돈 우체국으로 이동하기
+
+Deepl
+Find the Letter in Croydon Post Office
+크로이든 우체국에서 편지 찾기
+
+Deepl
+Return To Charles McAndrew
+찰스 맥앤드류로 돌아가기
+
+Deepl
+Speak to the stage director at Camden Theatre
+캠든 극장의 무대 감독과 대화하기
+
+Deepl
+Steal the Globe Theatre's copy of Macbeth
+글로브 극장의 맥베스 사본 훔치기
+
+Deepl
+(Optional) Convince the Globe Theatre to give you Macbeth
+(선택 사항) 글로브 극장에 맥베스를 제공하도록 설득하기.
+
+Deepl
+Return the play to Scott Nightingale
+연극을 스콧 나이팅게일에게 돌려주기.
+
+Deepl
+Speak to Freddy Fife
+프레디 파이프와 대화하기
+
+Deepl
+Get the stash of Calmex for Freddy
+프레디를 위해 칼멕스의 은닉품 가져오기
+
+Deepl
+Return to Freddy
+프레디에게 돌아가기
+
+Deepl
+Return to Scott
+스콧으로 돌아가기
+
+Deepl
+Speak with Claudia Rampling
+클라우디아 램플링과 대화하기
+
+Deepl
+Get the basement key from Scott
+스콧으로부터 지하실 열쇠 받기
+
+Deepl
+Find the source of the noises
+소음의 근원 찾기
+
+Deepl
+Speak with the ghouls
+구울과 대화하기
+
+Deepl
+(Optional) Speak with Scott about the ghouls
+(선택 사항) 스콧과 구울에 대해 이야기하기
+
+Deepl
+Deal with the ghouls
+구울과 대화하기
+
+Deepl
+Kill the ghouls
+구울 죽이기
+
+Deepl
+Disable the speakers at the terminal
+터미널의 스피커 비활성화하기
+
+Deepl
+Return to Claudia
+클라우디아에게 돌아가기
+
+Deepl
+Travel to the Laundromat in Greenwhich
+녹색의 빨래방으로 여행하기
+
+Deepl
+Find clothes for Ellen
+엘렌의 옷 찾기
+
+Deepl
+Put washing powder in the washing machine
+세탁기에 세제 넣기
+
+Deepl
+Wait for clothes to wash (<Global=Folon_SQThameshaven102_WMPercent>%)
+옷이 세탁될 때까지 기다리기 (<Global=Folon_SQThameshaven102_WMPercent>%)
+
+Deepl
+Collect the clothes
+옷 모으기
+
+Deepl
+Return to Ellen
+엘렌으로 돌아가기
+
+Deepl
+Investigate the London Mithraeum
+런던 미스라움 조사
+
+Deepl
+Investigate the mysterious cabin in Greenwich
+그리니치의 미스터리한 오두막 조사하기
+
+Deepl
+Place the Cutethulhu dolls (<Global=FOLON_SQCutethulhu101_Counter>/16)
+커테툴루 인형 배치하기 (<Global=FOLON_SQCutethulhu101_Counter>/16)
+
+Deepl
+Meditate with the dolls
+인형과 함께 명상하기
+
+Deepl
+Investigate the Cutethulhu dolls
+큐테툴루 인형 조사하기
+
+Deepl
+Read the Cutethulhu doll note
+크테툴루 인형 노트 읽기
+
+Deepl
+Protect the dog
+개를 보호하기
+
+Deepl
+Speak to the guard
+경비병과 대화하기
+
+Deepl
+Greet Churchill
+처칠에게 인사하기
+
+Deepl
+Talk to the man outside your cell
+감방 밖의 남자와 대화하기
+
+Deepl
+Escape the prison
+감옥 탈출하기
+
+Deepl
+Retrieve your belongings
+소지품 회수하기
+
+Deepl
+Bring 3 Mittenlurk Eggs to Egbert
+에그버트에게 미텐러크 알 3개 가져다주기.
+
+Deepl
+Check in on Egbert
+에그버트 확인하기
+
+Deepl
+Bring Shelly Mystery Meat Dog Food
+셸리 미스터리 고기 개 사료를 가져오기
+
+Deepl
+Speak to the Knight
+기사와 대화하기
+
+Deepl
+Search for Young Girl near the pond
+연못 근처에서 어린 소녀 찾기
+
+Deepl
+Kill Shelly
+셸리 죽이기
+
+Deepl
+Release Shelly
+셸리를 풀어주기
+
+Deepl
+Return to Knight with the news
+뉴스와 함께 기사로 돌아가기
+
+Deepl
+Find the painting for Margery in the National Gallery
+내셔널 갤러리에서 마저리의 그림 찾기
+
+Deepl
+Return to Margery with the painting
+그림을 들고 마저리에게 돌아가기
+
+Deepl
+Get Greg a bottle of Ice Cold Ion Brew
+그렉에게 아이스 콜드 이온 브루 한 병을 가져다주기
+
+Deepl
+Search for the books for Sabertooth Syd
+세이버투스 시드 책 검색하기
+
+Deepl
+(Optional) Find Dove's Dilemma
+(선택 사항) 도브의 딜레마 찾기
+
+Deepl
+Return to Syd with the books
+책을 가지고 시드에게 돌아가기
+
+Deepl
+Find Anarchy
+무정부 상태 찾기
+
+Deepl
+Return to Nancy
+낸시에게 돌아가기
+
+Deepl
+Travel to the Lewisham Police Station
+루이샴 경찰서로 이동하기
+
+Deepl
+Find the gun shipment in Lewisham Police Station
+루이샴 경찰서에서 총기를 찾기
+
+Deepl
+Return the gun shipment to Captain Reasonable
+리서블 반장에게 총을 돌려주기
+
+Deepl
+Convince Bishop Whaler to take in Lazarus
+웨일러 주교를 설득해서 라자루스를 데려가기
+
+Deepl
+Tell Lazarus he's welcome back at Sanctuary
+라자루스에게 성역으로 돌아온 걸 환영한다고 전하기
+
+Deepl
+Speak to Apache Alice
+아파치 앨리스와 대화하기
+
+Deepl
+Clear out Hooligans
+훌리건 제거하기
+
+Deepl
+Report back to Apache Alice
+아파치 앨리스에게 보고하기
+
+Deepl
+Get Palmira Romero's endorsement
+팔미라 로메로의 승인 받기
+
+Deepl
+Get Captain Reasonable's endorsement
+캡틴 리서블의 추천 받기
+
+Deepl
+Get John Strutter's endorsement
+존 스트러터의 추천 받기
+
+Deepl
+Gain entry to Westminster
+웨스트민스터 입장하기
+
+Deepl
+Enter Westminster
+웨스트민스터 입장하기
+
+Deepl
+Explore the crash site
+추락 현장 둘러보기
+
+Deepl
+Meet Smythe in his office at the Palace of Westminster
+웨스트민스터 궁전의 사무실에서 스마이스를 만나보기.
+
+Deepl
+Clear out the Cavaliers
+기병대 처치하기
+
+Deepl
+Return to the guard
+경비병에게 돌아가기
+
+Deepl
+Get the tour around Westminster
+웨스트민스터 둘러보기
+
+Deepl
+Open the door
+문 열기
+
+Deepl
+Explore the room
+방 둘러보기
+
+Deepl
+Speak to the Maintenance Man
+관리인과 대화하기
+
+Deepl
+Get the Zetan Blaster
+제탄 블래스터 입수하기
+
+Deepl
+Return the Zetan Blaster
+제탄 블래스터 반환하기
+
+Deepl
+Kill the Dryads
+드라이어드 처치하기
+
+Deepl
+Return to Gordon
+고든에게 돌아가기
+
+Deepl
+See how else you can help Gordon
+고든을 도울 수 있는 다른 방법을 찾아보기
+
+Deepl
+Investigate Bromley Pindar
+브롬리 핀다르 조사하기
+
+Deepl
+(Optional) Report back to Gordon
+(선택 사항) 고든에게 보고하기
+
+Deepl
+Use the Scanner
+스캐너 사용
+
+Deepl
+Find the cause of Dryad aggression
+드라이아드 공격의 원인 찾기
+
+Deepl
+Speak to the Synapse Tree
+시냅스 트리와 대화하기
+
+Deepl
+Report back to Gordon
+고든에게 보고하기
+
+Deepl
+Activate Mariner Beacons (<Global=FOLON_LQBoat101_BeaconCount>/10)
+마리너 비콘 활성화 (<Global=FOLON_LQBoat101_BeaconCount>/10)
+
+Deepl
+Help the Protectron
+프로텍트론을 도와주기
+
+Deepl
+Speak to the Protectron
+프로텍트론와 대화하기
+
+Deepl
+Kill the Cultists
+이교도 처치하기
+
+Deepl
+Go to the Office of the Head of the Civil Service after the tournament
+대회가 끝난 후 민정수석실로 이동하기
+
+Deepl
+Find and equip a bowler hat
+중산모 찾기 및 장비하기
+
+Deepl
+Enter Smythe's office
+스마이스의 사무실로 들어가기
+
+Deepl
+Answer the telephone
+전화 받기
+
+Deepl
+Pick up the card
+카드 수령
+
+Deepl
+(Optional) Pick up the card
+(선택 사항) 카드 수령
+
+Deepl
+Investigate your origins
+자신의 기원을 조사하기
+
+Deepl
+Seek out a doctor
+의사 찾기
+
+Deepl
+Cure your afflictions (<Global=FOLON_GMMQPerks_CureCount>/2)
+자신의 고통을 치료하기 (<Global=FOLON_GMMQPerks_CureCount>/2)
+
+Deepl
+Attend the tournament
+토너먼트에 참가하기
+
+Deepl
+Convince Guido to leave
+귀도에게 떠나라고 설득하기
+
+Deepl
+Return to the greeter
+인사하는 사람에게 돌아가기
+
+Deepl
+Find the explosives
+폭발물 찾기
+
+Deepl
+Set the charges underneath the box
+상자 아래에 폭탄 설치하기
+
+Deepl
+Find the Assassin
+암살자 찾기
+
+Deepl
+Speak to the Assassin
+암살자와 대화하기
+
+Deepl
+Wait for the tournament to start
+토너먼트 시작을 기다리기
+
+Deepl
+Clear the Collection Points
+수집 포인트 클리어하기
+
+Deepl
+Return to Chloe
+클로이에게 돌아가
+
+Deepl
+Speak with Pope
+포프와 대화하기
+
+Deepl
+Clear the Lower Levels
+낮은 레벨 클리어
+
+Deepl
+Turn the valve
+밸브 돌리기
+
+Deepl
+Return to Pope
+포프에게로 돌아가기
+
+Deepl
+Turn on the Purifier
+정화기 켜기
+
+Deepl
+Speak to Corporal Robinson
+로빈슨 상병과 대화하기
+
+Deepl
+Find the Beer Mats
+맥주 매트 찾기
+
+Deepl
+Retrieve the Peruvian Artefact
+페루 유물 가져오기
+
+Deepl
+Return to Peru
+페루로 돌아가기
+
+Deepl
+Retrieve Elliot's engagement ring from the scrapyard 
+고물상에서 엘리엇의 약혼반지를 되찾아주기
+
+Deepl
+Return Elliot's engagement ring
+엘리엇의 약혼반지 돌려주기
+
+Deepl
+Retrieve Edith's trumpet from the sewer
+하수구에서 이디스의 트럼펫을 되찾기
+
+Deepl
+Return Edith's trumpet
+이디스의 트럼펫 돌려주기
+
+Deepl
+Speak to the Crypt Guard
+지하실 경비병와 대화하기
+
+Deepl
+Kill the Enforcer
+집행자 처치하기
+
+Deepl
+Return to the Guard
+경비병에게 돌아가기
+
+Deepl
+Speak to Polly Ester at the water treatment plant
+정수장에서 폴리 에스터와 대화하기
+
+Deepl
+Investigate the first source of radiation
+첫 번째 방사선원 조사하기
+
+Deepl
+Investigate the second source of radiation
+두 번째 방사선원을 조사하기
+
+Deepl
+Kill the contaminating commuter
+오염시킨 통근자를 죽이기
+
+Deepl
+Report your findings to Polly Ester
+폴리 에스터에게 조사 결과를 보고하기.
+
+Deepl
+Speak to Jesse Gray
+제시 그레이와 대화하기
+
+Deepl
+Return to Polly Ester
+폴리 에스터에게 돌아가기
+
+Deepl
+Report back to Palmira Romero
+팔미라 로메로에게 보고하기
+
+Deepl
+Retrieve the Sword from the Camelot Armoury
+카멜롯 무기고에서 검을 회수하기.
+
+Deepl
+Return Sergeant Neil's Sword
+닐 하사의 검을 돌려주기
+
+Deepl
+Get the torch
+토치 집기
+
+Deepl
+Return to the Nightwatchman
+나이트워치맨에게 돌아가기.
+
+Deepl
+Find the children
+아이들을 찾기
+
+Deepl
+Help Mandy's Brother
+맨디의 오빠를 도와주기
+
+Deepl
+Find a way to free Stevie
+스티비를 풀어줄 방법 찾기
+
+Deepl
+Follow the children back to their parents
+아이들을 따라 부모에게 돌아가기
+
+Deepl
+Speak to Queenie
+퀴니와 대화하기
+
+Deepl
+Speak to Charlie
+찰리와 대화하기
+
+Deepl
+Milk the Brahmin
+브라만에게 우유 주기
+
+Deepl
+Talk to Bernie
+버니와 대화
+
+Deepl
+Defend the election posters
+선거 포스터를 지켜주기
+
+Deepl
+Put up poster near Lancaster House
+랭커스터 하우스 근처에 포스터 붙이기
+
+Deepl
+Put up poster in Piccadilly Circus
+피카딜리 서커스에 포스터 붙이기
+
+Deepl
+Put up poster near the cafe
+카페 근처에 포스터 붙이기
+
+Deepl
+Put up poster near Chairman Pub
+체어맨 펍 근처에 포스터 붙이기
+
+Deepl
+Put up poster near Royal Albert Hall
+로열 앨버트 홀 근처에 포스터 붙이기
+
+Deepl
+Return to Bernie
+버니로 돌아가기
+
+Deepl
+Listen to the results
+결과 듣기
+
+Deepl
+Speak to Bernie
+버니와 대화하기
+
+Deepl
+Discover the source of the noise
+소음의 근원 찾기
+
+Deepl
+Talk the cat down
+고양이 진정시키기
+
+Deepl
+Shake the tree
+나무를 흔들어
+
+Deepl
+Retrieve a ladder
+사다리 가져오기
+
+Deepl
+Put down the ladder
+사다리 내려놓기
+
+Deepl
+Talk to Dot
+닷과 대화하기
+
+Deepl
+Bring 10 Pox Bulbs to Patch
+수두 전구 10개 가져오기
+
+Deepl
+Retrieve the Keg from the Brewery
+양조장에서 술통 가져오기
+
+Deepl
+Swap out the keg
+술통 교체하기
+
+Deepl
+Talk to Allen
+알렌과 대화하기
+
+Deepl
+Quickly pick up the sack
+빨리 자루를 들기
+
+Deepl
+Take the Sack to the top of the Construction Site
+자루를 건설 현장 꼭대기로 가져가기.
+
+Deepl
+Speak to Bookie
+부키와 대화하기
+
+Deepl
+Rescue any caravan survivors
+캐러밴 생존자 구조하기
+
+Deepl
+Deal with Section
+섹션 처리
+
+Deepl
+Report back to Noah
+노아에게 보고해
+
+Deepl
+Retrieve the skull for Edmure
+에드뮤어의 해골을 가져오기
+
+Deepl
+Return the skull to Edmure
+해골을 에드뮤어에게 돌려주기
+
+Deepl
+Retrieve a pizza for jordan from Thameshaven
+템즈헤븐에서 조던을 위한 피자를 가져오기
+
+Deepl
+Return with a pizza for jordan
+조던을 위한 피자를 가지고 돌아오기
+
+Deepl
+Debate with Jeremy Benthem
+제레미 벤템과의 토론
+
+Deepl
+Retrieve the Warmite shipment
+워마이트 수송물 회수
+
+Deepl
+Return the Warmite shipment
+워마이트 배송물 반환
+
+Deepl
+Investigate Alanah's parent's Footlocker
+알라나의 부모님 풋락커를 조사하기
+
+Deepl
+ Return to Alanah
+알라나로 돌아가기
+
+Deepl
+Speak to the Man
+남자와 대화하기
+
+Deepl
+Follow Bruce
+브루스 따라가기
+
+Deepl
+Speak to Bruce
+브루스와 대화하기
+
+Deepl
+Enter the Tabacco Docks
+타바코 부두로 들어가기
+
+Deepl
+<Optional> Sneak into the Tabacco Docks
+<선택 사항> 타바코 부두로 몰래 들어가기
+
+Deepl
+Talk to Clove and Bruce
+클로브와 브루스와 대화하기
+
+Deepl
+Defeat Clove and Bruce
+클로브와 브루스 처치하기
+
+Deepl
+Speak with Sumner
+섬너와 대화하기
+
+Deepl
+Steal the item for Sumner
+섬너를 위해 아이템 훔치기
+
+Deepl
+Return to Sumner
+섬너에게 돌아가기
+
+Deepl
+Speak with Rhys
+리스와 대화하기
+
+Deepl
+Steal the item for Rhys
+리스에게 아이템 훔치기
+
+Deepl
+Return to Rhys
+리스에게 돌아가기
+
+Deepl
+Speak with Braiden
+브레이든과 대화하기
+
+Deepl
+Steal the item for Braiden
+브레이든의 아이템 훔치기
+
+Deepl
+Return to Braiden
+브레이든에게 돌아가기
+
+Deepl
+Speak with the Bartender
+바텐더와 대화하기
+
+Deepl
+Steal the item for Bartender
+바텐더의 아이템 훔치기
+
+Deepl
+Return to Bartender
+바텐더에게 돌아가기
+
+Deepl
+Speak with Jennifer
+제니퍼와 대화하기
+
+Deepl
+Steal the item for Jennifer
+제니퍼의 아이템 훔치기
+
+Deepl
+Return to Jennifer
+제니퍼에게 돌아가
+
+Deepl
+Return to McFadden
+맥패든에게 돌아가기
+
+Deepl
+Deliver the letter
+편지를 전달하기.
+
+Deepl
+Check on Roger in a few days
+며칠 후에 로저를 확인하기
+
+Deepl
+Speak to Rodger
+로저와 대화하기
+
+Deepl
+Speak to Jan "The Screw"
+"스크류" 얀과 대화하기.
+
+Deepl
+Clear out the Bromley Hardware Store
+브롬리 철물점 정리하기
+
+Deepl
+Return to Jan "The Screw"
+"스크류" 얀에게 돌아가기
+
+Deepl
+Investigate the University
+대학 조사하기
+
+Deepl
+Decypher mysterious code
+미스터리 코드 해독하기
+
+Deepl
+Tell the Professor you've cracked the code
+교수님한테 암호를 풀었다고 전해주기
+
+Deepl
+Unlock Master Terminal
+마스터 터미널 잠금 해제
+
+Deepl
+Read the message on the inner terminal
+내부 터미널의 메시지 읽기
+
+Deepl
+Kill the Robots
+로봇을 죽이기
+
+Deepl
+Return to the Professor
+교수에게 돌아가기
+
+Deepl
+Await contact from Smythe
+스마이스의 연락을 기다리기.
+
+Deepl
+Check in with Smythe
+스마이스에게 체크인하기
+
+Deepl
+Travel to the Land's End Inn in Peckham
+페컴의 랜드스 엔드 인으로 이동하기
+
+Deepl
+Retrieve your luggage from Room 5
+5번 방에서 수하물 찾기
+
+Deepl
+Read your new Initiative Briefing
+새로운 이니셔티브 브리핑 읽기
+
+Deepl
+Pick up the briefcase
+서류 가방 수령
+
+Deepl
+Pick up the flag
+깃발 수령
+
+Deepl
+Pick up the flamethrower
+화염방사기 수령
+
+Deepl
+Travel to the Peckham settlement nearby
+근처 페컴 정착지로 이동
+
+Deepl
+Burn down the settlement...
+정착지를 불태우기...
+
+Deepl
+Leave no survivors!
+그 누구도 살려두지 마라!
+
+Deepl
+Hoist the Angel flag
+앤젤 깃발 게양하기
+
+Deepl
+"Assist" the Tommies with their inquiries
+"토미들의 문의를 '도와주기'
+
+Deepl
+Deal with the Tommies
+토미들 처리하기
+
+Deepl
+Speak to the 2nd Lieutenant
+중위와 대화하기
+
+Deepl
+Speak to the Lieutenant
+중위와 대화하기
+
+Deepl
+Return to Smythe in Westminster
+웨스트민스터의 스마이스에게 돌아가기
+
+Deepl
+Read Smythe's dossier
+스마이스의 서류 읽기
+
+Deepl
+Step #1 - Obtain a royal appointment from Baroness Brenda Beaumont
+1단계 - 브렌다 보몬트 남작부인으로부터 왕실 임명장 받기
+
+Deepl
+Step #2 - Stamp the royal appointment with Baron Earle Winthrop's seal
+2단계 - 얼 윈스롭 남작의 인장으로 왕실 임명장에 도장 찍기
+
+Deepl
+Step #4 - Get Baron Nigel Honeysett to authenticate the appointment
+4단계 - 나이젤 허니셋 남작에게 임명장 인증 받기
+
+Deepl
+Step #3 - Assassinate Cecily Sugar in order to intimidate Nigel Honeysett
+3단계 - 세실리 슈가를 암살하여 나이젤 허니셋을 협박하기
+
+Deepl
+(Optional) Ask Smythe about the targets
+(선택 사항) 스마이스에게 표적에 대해 물어보기
+
+Deepl
+Use force to convince Baroness Brenda Beaumont
+무력을 사용해 브렌다 보몬트 남작부인을 설득하기
+
+Deepl
+Retrieve a bottle of Catford's Finest for the Baron
+남작을 위해 캣포드 최고급 술 한 병 가져오기
+
+Deepl
+Use force to convince Baron Earle Winthrop
+무력을 사용하여 남작 얼 윈스롭 설득하기
+
+Deepl
+(Optional) Make preperations for Cecily's death before the electrician fixes the power
+(선택 사항) 전기 기술자가 전력을 수리하기 전에 세실리의 죽음에 대비하기
+
+Deepl
+(Optional) Place the Angel explosives near Cecily's podium
+(선택 사항) 세실리의 연단 근처에 앤젤 폭발물 배치하기
+
+Deepl
+(Optional) Sabotage the power supply to Cecily's microphone
+(선택 사항) 세실리의 마이크에 전원 공급을 방해하기.
+
+Deepl
+(Optional) Wait for the electrician to fix the power
+(선택 사항) 전기 기술자가 전원을 고칠 때까지 기다리기.
+
+Deepl
+(Optional) Watch the debate
+(선택 사항) 토론 시청하기
+
+Deepl
+Wait a day to attend Cecily's funeral
+세실리의 장례식에 참석하기 위해 하루 기다리기
+
+Deepl
+Hand off the Royal Appointment to the Prime Minister
+왕실 임명장을 총리에게 전달하기
+
+Deepl
+Election Night Special: Help speed up election season procedures
+선거의 밤 스페셜: 선거 시즌 절차를 빠르게 진행하기.
+
+Deepl
+Return to Smythe's office
+스마이스의 사무실로 돌아가기
+
+Deepl
+Go outside and wait to be contacted by Smythe
+밖으로 나가 스마이스의 연락을 기다리기.
+
+Deepl
+Speak to the courier
+배달원과 대화하기
+
+Deepl
+Attend Smythe's appointment ceremony at St James's Palace
+세인트 제임스 궁전에서 열리는 스마이스의 임명식에 참석하기
+
+Deepl
+Listen to Smythe's appointment ceremony
+스마이스의 임명식 듣기
+
+Deepl
+Assassinate Eve Varney
+이브 바니 암살
+
+Deepl
+(Optional) Storm the board room
+(선택 사항) 이사회실 습격
+
+Deepl
+Meet Horatio at the 5th Column tavern
+5열 선술집에서 호레이쇼를 만나기
+
+Deepl
+(Optional) Persuade Victor Schmidt to join the plot
+(선택 사항) 빅터 슈미트가 음모에 동참하도록 설득하기
+
+Deepl
+(Optional) Find evidence of Hume's murder before speaking to Victor
+(선택 사항) 빅터와 대화하기 전에 흄의 살인 증거를 찾기
+
+Deepl
+Assassinate Eve Varney at the discrete location
+비밀 장소에서 이브 바니를 암살하기.
+
+Deepl
+Go to your first initiative
+첫 번째 이니셔티브로 이동
+
+Deepl
+Investigate the voice
+'목소리'를 조사하기
+
+Deepl
+Meet the man in his office
+그의 사무실에서 그를 만나기
+
+Deepl
+Collect DNA samples (<Global=FOLON_MQAngel301_Counter01>/4)
+DNA 샘플 채취 (<Global=FOLON_MQAngel301_Counter01>/4)
+
+Deepl
+Return to Director Wesley Herbertson
+웨슬리 허버트슨 감독관으로 돌아가기
+
+Deepl
+Enter the first cage
+첫 번째 우리에 들어가기
+
+Deepl
+Deal with the first ghoul
+첫 번째 구울 처리하기
+
+Deepl
+Enter the second cage
+두 번째 우리로 들어가기
+
+Deepl
+Deal with the second ghoul
+두 번째 구울 처치하기
+
+Deepl
+Enter the third cage
+세 번째 우리로 들어가기
+
+Deepl
+Interact with the third ghoul
+세 번째 구울과 대화하기
+
+Deepl
+Deal with the third ghoul
+세 번째 구울 처치하기
+
+Deepl
+Enter the fourth cage
+네 번째 우리로 들어가기
+
+Deepl
+Interact with the fourth ghoul
+네 번째 구울과 대화하기
+
+Deepl
+Deal with the fourth ghoul
+네 번째 구울과 대화하기
+
+Deepl
+Speak to Director Wesley Herbertson
+웨슬리 허버트슨 감독관와 대화하기
+
+Deepl
+Await to be contacted by Smythe
+스마이스의 연락을 기다리기.
+
+Deepl
+Travel to the London Aquarium Lab
+런던 수족관 연구소로 여행하기
+
+Deepl
+Find the source of the data transmission
+데이터 전송의 출처를 찾아보기
+
+Deepl
+Investigate the giant crab
+거대한 게 조사하기
+
+Deepl
+(Optional) Deactivate containment protocols
+(선택 사항) 봉쇄 프로토콜 비활성화
+
+Deepl
+Spin the maintenance valve to free Reggie
+유지 밸브를 돌려 레지를 풀어주기.
+
+Deepl
+Say goodbye to Reggie
+레지에게 작별 인사하기
+
+Deepl
+Escape the laboratory
+실험실 탈출하기
+
+Deepl
+Leave the aquarium
+수족관 떠나기
+
+Deepl
+Talk to Smythe
+스마이스와 대화하기
+
+Deepl
+Initiate the lab's self-destruct sequence
+실험실의 자폭 시퀀스 시작
+
+Deepl
+(Optional) Cancel the self-destruct sequence
+(선택 사항) 자폭 시퀀스 취소
+
+Deepl
+(Optional) Manually initiate the lab's self-destruct sequence
+(선택 사항) 실험실의 자폭 시퀀스를 수동으로 시작하기
+
+Deepl
+Assassinate Arthur
+아서 암살
+
+Deepl
+Meet Dr James North in Westminster
+웨스트민스터에서 제임스 노스 박사를 만나기
+
+Deepl
+Go to North's laboratory via Hyde Park Corner Station
+하이드 파크 코너 역을 통해 노스의 실험실로 이동하기.
+
+Deepl
+Run to North's laboratory - don't get squished!
+노스의 실험실로 달려가기 - 찌그러지지 마!
+
+Deepl
+Discuss the plan with Doctor North
+노스 박사와 계획 논의하기
+
+Deepl
+Attend North's party in Westminster
+웨스트민스터에서 열리는 노스 박사의 파티에 참석하기
+
+Deepl
+Kill Guinevere - preferably in the garden
+기네비어를 죽이기 - 가급적 정원에서 죽이기.
+
+Deepl
+(Optional) Find hidden surveillance devices (<Global=FOLON_MQAngel304_Counter01>/5)
+(선택 사항) 숨겨진 감시 장치 찾기 (<Global=FOLON_MQAngel304_Counter01>/5)
+
+Deepl
+Return to Doctor North's laboratory
+노스 박사의 실험실로 돌아가기
+
+Deepl
+Speak to Doctor North
+노스 박사와 대화하기
+
+Deepl
+Complete the experiment
+실험 완료하기
+
+Deepl
+Check the results
+결과 확인
+
+Deepl
+Contact Smythe
+스마이스에게 연락하기
+
+Deepl
+Listen to Smythe on the telescreen
+텔레스크린에서 스마이스의 말 듣기
+
+Deepl
+Meet Guinevere near Camelot
+카멜롯 근처에서 기네비어를 만나기
+
+Deepl
+Follow Guinevere
+기네비어를 따라가기
+
+Deepl
+Report back to Smythe at North's lab
+노스의 실험실에 있는 스마이스에게 보고하기
+
+Deepl
+Take Colonel Major's Appointment Notice
+메이저 대령의 임명장을 받기
+
+Deepl
+Deliver the Appointment Notice to General Asquith
+애스퀴스 장군에게 임명 통지서를 전달하기
+
+Deepl
+Travel to Buckingham Palace to get the Queen's backing
+버킹엄 궁전으로 이동하여 여왕의 지원 받기
+
+Deepl
+Enter Buckingham Palace
+버킹엄 궁전 입장
+
+Deepl
+Get the Revivification Serum
+부활의 세럼 획득하기
+
+Deepl
+Get the Queen's Chambers Key
+여왕의 방 열쇠 받기
+
+Deepl
+Enter the Queen's Chambers
+여왕의 방에 입장하기
+
+Deepl
+Find the Queen
+여왕 찾기
+
+Deepl
+Incapacitate the Queen
+여왕 무력화
+
+Deepl
+Inject the Revivification Serum
+부활의 혈청 주입
+
+Deepl
+Get the Appointment Notice signed by the Queen
+여왕의 서명을 받은 임명 통지서 받기
+
+Deepl
+Return to the Imperial War Museum
+제국 전쟁 박물관으로 돌아가기
+
+Deepl
+Meet Asquith outside for a duel
+결투를 위해 밖에서 애스퀴스를 만나기
+
+Deepl
+Defeat Asquith
+아스키스 처치하기
+
+Deepl
+Listen to General Major's speech
+메이저 장군의 연설 듣기
+
+Deepl
+Travel to the Broadcasting House
+방송국으로 이동
+
+Deepl
+Deal with the Roundheads
+라운드헤드와 거래
+
+Deepl
+Head up to the studio
+스튜디오로 이동
+
+Deepl
+Deal with the station manager
+방송국 매니저와 거래
+
+Deepl
+Speak to the broadcast technician
+방송 기술자와 대화하기
+
+Deepl
+Find and hire Dicky Anderson
+디키 앤더슨 찾기 및 고용하기
+
+Deepl
+Deal with Dicky Anderson's landlord
+디키 앤더슨의 집주인과 거래하기
+
+Deepl
+Return to the studio
+스튜디오로 돌아가기
+
+Deepl
+Speak to Robert Maxwell-Jones
+로버트 맥스웰-존스와 대화하기
+
+Deepl
+Guarantee Maxwell-Jones' compliance
+맥스웰-존스의 규정 준수 보장
+
+Deepl
+(Optional) Consult the broadcast technician
+(선택 사항) 방송 기술자와 상담
+
+Deepl
+(Optional) Kill Maxwell-Jones' manservant
+(선택 사항) 맥스웰-존스의 하인 죽이기
+
+Deepl
+Retrieve a Telescreen Transmitter Circuit from the LT Tower
+LT 타워에서 텔레스크린 송신기 회로 회수하기
+
+Deepl
+Return the circuit to the studio
+회로를 스튜디오에 반환하기
+
+Deepl
+Replace the circuit
+회로 교체하기
+
+Deepl
+Watch the broadcast
+방송 시청하기
+
+Deepl
+Go to Rotherhithe
+로더히테로 이동
+
+Deepl
+Speak to Hector
+헥터와 대화하기
+
+Deepl
+Go to Hardware City
+하드웨어 시티로 이동
+
+Deepl
+Go to Limehouse
+라임하우스로 가기.
+
+Deepl
+Investigate the carnage
+대학살 조사하기
+
+Deepl
+Go to the Blackwall Citadel
+블랙월 성채로 이동하기
+
+Deepl
+Speak to the Thamesfolk Leader
+템즈포크 지도자와 대화하기
+
+Deepl
+Speak to Theo
+테오와 대화하기
+
+Deepl
+Place the Morse Telegraph
+모스 전신 배치하기
+
+Deepl
+Journey to Vauxhall
+복스홀로 여행하기
+
+Deepl
+Deal with the Angel operatives
+앤젤 요원 상대하기
+
+Deepl
+Find a way to make the Angel operatives leave
+앤젤 요원들이 떠나게 할 방법을 찾기
+
+Deepl
+Escape to a safe distance
+안전한 거리로 탈출하기
+
+Deepl
+Find Nemo
+니모 찾기
+
+Deepl
+Return to Jeremy
+제레미에게 돌아가기
+
+Deepl
+Ask about helping Eastminster
+이스트민스터를 돕는 일에 대해 물어보기
+
+Deepl
+Bring love to Eastminster
+이스트민스터에 사랑을 전하기
+
+Deepl
+Get a Copy of the Hussite Wars
+후사이트 전쟁 사본 받기
+
+Deepl
+Give Charlie the Hussite Wars
+찰리에게 후사이트 전쟁을 전해주기
+
+Deepl
+Greet Trout
+송어 인사하기
+
+Deepl
+Get a deck of cards
+카드 한 벌 받기
+
+Deepl
+Give Trout the deck of cards
+트라우트에게 카드 한 벌 주기
+
+Deepl
+Talk to Gorden
+고든과 대화하기
+
+Deepl
+Talk to Abigail
+아비게일과 대화하기
+
+Deepl
+Tell Gorden the News
+고든에게 소식 전하기
+
+Deepl
+Return to Toby
+토비에게 돌아가기
+
+Deepl
+Retrieve the Football for rat piss
+쥐 오줌에게 축구공 회수하기
+
+Deepl
+Return to Rat Piss with the Football
+축구와 함께 쥐 오줌으로 돌아가기
+
+Deepl
+Clear the Radar Station
+레이더 기지 클리어
+
+Deepl
+Return to Noah
+노아에게 돌아가기
+
+Deepl
+Find and photograph graffiti pieces (<Global=FOLON_GLOB_SQIslington101_PhotoCount>/20)
+그래피티 조각을 찾아서 사진 찍기 (<Global=FOLON_GLOB_SQIslington101_PhotoCount>/20)
+
+Deepl
+Return to Frobisher
+프로비셔로 돌아가기
+
+Deepl
+Investigate the gunfire
+총격 사건 조사
+
+Deepl
+Speak to Rosie & Guy
+로지 & 가이와 대화하기
+
+Deepl
+Deal with the Miller's Men
+밀러의 부하들과 거래하기
+
+Deepl
+Go to Crawford Street
+크로포드 거리로 이동하기
+
+Deepl
+Join the Hurly Burly
+헐리 벌리 합류하기
+
+Deepl
+(Optional) Help the injured Roundel
+(선택 사항) 부상당한 라운델을 도와주기
+
+Deepl
+Follow the Roundels
+라운델을 따라가기
+
+Deepl
+Speak to Dennis and Joan
+데니스와 조안와 대화하기
+
+Deepl
+Go inside the back door with the Roundels
+라운델과 함께 뒷문으로 들어가기
+
+Deepl
+(Optional) Speak to Joan to change your mind
+(선택 사항) 조안과 대화해서 마음 바꾸기
+
+Deepl
+Go inside the front door with the Roundels
+라운델과 함께 정문으로 들어가기
+
+Deepl
+Kill the Miller's Men
+밀러의 부하들 처치하기
+
+Deepl
+(Optional) Speak to Rosie and Guy
+(선택 사항) 로지 및 가이와 대화하기
+
+Deepl
+(Optional) Speak to Joan
+(선택 사항) 조안와 대화하기
+
+Deepl
+(Optional) Speak to Ronnie
+(선택 사항) 로니와 대화하기
+
+Deepl
+Meet the Roundels outside
+밖에서 라운델 일행 만나기
+
+Deepl
+Listen to Dennis' speech
+데니스의 연설 듣기
+
+Deepl
+Knock for John Strutter
+노크 존 스트러터
+
+Deepl
+Talk to John Strutter
+존 스트러터와 대화하기
+
+Deepl
+Get Malcom Rhodes to sign the confession
+말콤 로즈에게 자백서에 서명받기
+
+Deepl
+Find documents that incriminate Malcolm Rhodes
+말콤 로즈의 혐의를 입증하는 문서 찾기
+
+Deepl
+Return the signed statement to John Strutter
+서명된 진술서를 존 스트러터에게 돌려주기
+
+Deepl
+Return the incriminating documents to John Strutter
+존 스트러터에게 유죄를 입증하는 서류 돌려주기
+
+Deepl
+Distribute the packages to Malcolm's friends
+말콤의 친구들에게 소포 배포하기
+
+Deepl
+(Optional) Tell John about the leaflets
+(선택 사항) 존에게 전단지에 대해 이야기하기
+
+Deepl
+Return to Malcolm Rhodes
+말콤 로즈에게 돌아가기
+
+Deepl
+Retrieve Tim the Roundel's supplies from the flooded areas of Hackney
+해크니의 침수 지역에서 팀 더 라운델의 보급품을 가져오기
+
+Deepl
+Return Tim the Roundel's supplies
+팀 더 라운델의 보급품 반환하기
+
+Deepl
+Return to Swan & Mitre
+스완 & 미터로 돌아가기
+
+Deepl
+Speak with Nelson
+넬슨과 대화하기
+
+Deepl
+(Optional) Ask lieutenants for supplies
+(선택 사항) 부관에게 보급품 요청하기
+
+Deepl
+(Optional) Bring Winston some Gin Cocktail
+(선택 사항) 윈스턴에게 진 칵테일 가져다주기
+
+Deepl
+(Optional) Bring Johnny a hymn book
+(선택 사항) 조니에게 찬송가 책 가져다주기
+
+Deepl
+(Optional) Bring Anthony 4 pieces of lead
+(선택 사항) 앤서니에게 납 4조각 가져다주기
+
+Deepl
+Get a lapel pin from an IODS enforcer captain
+IODS 집행관 대장 옷깃 핀 얻기
+
+Deepl
+Show the lapel pin to Gaunt
+건트에게 라펠 핀을 보여주기
+
+Deepl
+Meet Yvette in Millwall
+밀월에서 이베트를 만나기
+
+Deepl
+Halt the execution
+처형 중지시키기
+
+Deepl
+Distract or Kill the Guards
+경비병 교란 또는 처치
+
+Deepl
+Wait for Yvette's distraction
+이베트의 주의를 끌 때까지 기다리기
+
+Deepl
+Free the prisoner
+죄수 풀어주기
+
+Deepl
+Speak to Uma
+우마와 대화하기
+
+Deepl
+Escape to the Vagabond safehouse
+베가본드 안전가옥으로 탈출하기
+
+Deepl
+Follow Gaunt
+건트를 따라가기
+
+Deepl
+Complete the lieutenants' tasks
+부관들의 임무를 완수하기.
+
+Deepl
+Go to Cawdor Street with the Roundels
+라운델과 함께 코도르 거리로 가기.
+
+Deepl
+Speak to Dennis
+데니스와 대화하기
+
+Deepl
+(Optional) Follow the Roundels
+(선택 사항) 라운델을 따라가기.
+
+Deepl
+Clear Cawdor Street of Miller's Men
+밀러의 부하들의 코더 거리 클리어하기
+
+Deepl
+Kill the Miller's Men outside Glam Clubhouse
+글램 클럽하우스 밖 밀러의 부하 처치하기
+
+Deepl
+Kill the Miller's Men outside Maab House
+마브 하우스 밖 밀러의 부하 처치하기
+
+Deepl
+Investigate the sound
+소리 조사
+
+Deepl
+Defeat the Radger
+래더 처치하기
+
+Deepl
+Speak to the Roundels
+라운델과 대화하기
+
+Deepl
+Speak to Manchester Mike
+맨체스터 마이크와 대화하기
+
+Deepl
+Kill the Miller's Men inside Club Glam
+클럽 글램 내부의 밀러의 부하 처치하기
+
+Deepl
+Kill the Miller's Men inside Maab House
+마브 하우스 내부의 밀러의 부하 처치하기
+
+Deepl
+Speak to Prince Pete
+피트 왕자와 대화하기
+
+Deepl
+Speak to Toby about Eastminster leadership
+토비에게 이스트민스터 리더십에 대해 이야기하기
+
+Deepl
+Talk to Octavia Holland about the ballots.
+옥타비아 홀랜드에게 투표용지에 대해 이야기하기.
+
+Deepl
+Find the ballots at City Hall in Southwark.
+사우스워크 시청에서 투표용지를 찾기.
+
+Deepl
+Return the ballots to Toby.
+투표용지를 토비에게 돌려주기.
+
+Deepl
+Get a majority of the ballots signed by Eastminster residents (<global=FOLON_SQEastminster104counter01>/10).
+이스트민스터 주민의 서명을 받은 투표용지 과반수를 확보하기(<global=FOLON_SQEastminster104counter01>/10).
+
+Deepl
+Kill the Hooligans at Somerset House.
+서머셋 하우스에서 훌리건들을 처치하기.
+
+Deepl
+Speak to Marley about the lost shipment, OR steal the shipment.
+말리에게 분실된 물건에 대해 이야기하거나 물건을 훔치기.
+
+Deepl
+Report back to Ms. Bruna.
+브루나에게 보고하기.
+
+Deepl
+Reconvene with Meghna.
+메그나와 다시 만나기.
+
+Deepl
+Rendezvous with Toby.
+토비와 만나기.
+
+Deepl
+Attend Toby's speech.
+토비의 연설에 참석하기.
+
+Deepl
+Speak to Toby.
+토비와 대화하기.
+
+Deepl
+Recruit candidates for the Good Samaritans (<global=FOLON_SQEastminster104counter02>/5).
+선한 사마리아인 후보자를 모집하기 (<global=FOLON_SQEastminster104counter02>/5).
+
+Deepl
+Speak to Stacy
+스테이시와 대화하기
+
+Deepl
+Clear out the Hooligan dens
+훌리건 소굴 섬멸하기
+
+Deepl
+Return to Corporal Nux
+눅스 상병에게 돌아가기.
+
+Deepl
+Kill all of the remaining Hooligans
+남은 훌리건을 모두 처치하기
+
+Deepl
+Get Godric's money back
+고드릭의 돈 돌려받기
+
+Deepl
+Return the items to Godric
+고드릭에게 아이템 돌려주기
+
+Deepl
+Follow Xavier to Godric
+자비에를 따라 고드릭에게 가기
+
+Deepl
+Clear the Raiders from <Alias=Dungeon>
+<Alias=Dungeon>에 있는 레이더 섬멸하기
+
+Deepl
+Pick up the Barrel
+배럴을 집어
+
+Deepl
+Deliver the Barrel
+배럴 전달하기
+
+Deepl
+Barrel
+총열
+
+Deepl
+Report Back to Ayesha
+아예샤에게 보고하기
+
+Deepl
+Listen to Guido's gossip
+귀도의 수다 듣기
+
+Deepl
+Eavesdrop the conversation
+대화 엿듣기
+
+Deepl
+Listen to the conversation
+대화 듣기
+
+Deepl
+Inform Guido of the plan
+귀도에게 계획 알리기
+
+Deepl
+Head to the meeting point
+만남의 장소로 향하기
+
+Deepl
+Investigate the tunnels
+터널 조사하기
+
+Deepl
+Report back to Guido
+귀도에게 보고하기
+
+Deepl
+Speak to Allistair Tenpenny at his Manor
+저택에 있는 알리스테어 텐페니와 대화하기
+
+Deepl
+Contact Mr. Emil
+에밀 씨에게 연락하기
+
+Deepl
+Survive the Ambush
+매복에서 살아남기
+
+Deepl
+Speak to Mr. Emil
+에밀 씨와 대화하기
+
+Deepl
+Option 1: Bring one Tommy, 5th Column and Camelot uniform to Mr. Emil
+옵션 1: 에밀 씨에게 토미, 5열, 카멜롯 유니폼을 하나씩 가져다주기
+
+Deepl
+Option 2: Bring 10 Mittenlurk eggs to Mr. Emil
+옵션 2: 에밀 씨에게 미텐러크 알 10개 가져다주기
+
+Deepl
+Option 3: Bribe Mr. Emil
+옵션 3: 에밀 씨에게 뇌물 주기
+
+Deepl
+Speak to Allistair Tenpenny
+알리스테어 텐페니와 대화하기
+
+Deepl
+Escort Allistair Tenpenny to the port
+알리스테어 텐페니를 항구까지 호위하기
+
+Deepl
+Wait for Tenpenny to go to his Manor
+텐페니가 저택에 갈 때까지 기다리기
+
+Deepl
+(Optional) Warn the people of the London Eye
+(선택 사항) 런던 아이 사람들에게 경고하기
+
+Deepl
+Steal explosives from the Hooligans
+훌리건에게서 폭발물 훔치기
+
+Deepl
+Intercept the Hooligan breach in the Eastminster Pindar
+이스트민스터 핀다르에서 훌리건의 침입을 가로채기
+
+Deepl
+Look for the payload mentioned in the Hooligan's note
+훌리건의 메모에 언급된 페이로드를 찾아내기.
+
+Deepl
+Plant the explosives at the London Eye
+런던 아이에 폭발물을 설치하기
+
+Deepl
+(Optional) Obtain written evidence of Tenpenny's crime
+(선택 사항) 텐페니의 범죄에 대한 서면 증거 확보하기
+
+Deepl
+Bring evidence to Fowler
+파울러에게 증거를 가져오기
+
+Deepl
+Return to Tenpenny
+텐페니에게 돌아가기
+
+Deepl
+Watch the destruction of the London eye
+런던 아이 파괴를 지켜보기
+
+Deepl
+Speak to Patrick
+패트릭과 대화하기
+
+Deepl
+(Optional) Talk to Milano
+(선택 사항) 밀라노와 대화하기
+
+Deepl
+(Optional) Talk to Chanelle
+(선택 사항) 샤넬과 대화하기
+
+Deepl
+Retrieve the fabric being delivered to Chanelle
+샤넬로 배달되는 원단 회수하기
+
+Deepl
+'Update' the Channelle displays
+채널 디스플레이 '업데이트'
+
+Deepl
+(Optional) Convince the shop assistant to take down the display
+(선택 사항) 점원을 설득하여 진열대를 철거하게 하기.
+
+Deepl
+Stop Greta from walking in Chanelle's show
+그레타가 샤넬 쇼에 입장하지 못하도록 막기
+
+Deepl
+Retrieve the fabric being delivered to Milano
+밀라노로 배달되는 원단 회수하기
+
+Deepl
+Remove the display in Casa di Milano
+카사 디 밀라노의 디스플레이 제거하기
+
+Deepl
+Stop Greta from walking in Milano's show
+그레타가 밀라노 쇼에서 걷지 못하게 하기
+
+Deepl
+Return to Milano
+밀라노로 돌아가기
+
+Deepl
+Return to Chanelle
+샤넬에게 돌아가기
+
+Deepl
+Speak to Patrick wearing the Battle Coat
+배틀 코트를 입은 패트릭과 대화하기
+
+Deepl
+Meet Patrick at the Shoppe
+상점에서 패트릭 만나기
+
+Deepl
+Speak with Prince Pete Davis
+피트 데이비스 왕자와 대화하기
+
+Deepl
+Meet Manchester Mike at Maab House
+마브 하우스에서 맨체스터 마이크를 만나기
+
+Deepl
+Secure the safehouse
+안전가옥 확보
+
+Deepl
+Fix the fridge
+냉장고를 고쳐
+
+Deepl
+Fix the bed
+침대 고정
+
+Deepl
+Replace the doors
+문 교체
+
+Deepl
+Clean up the gore
+시체 치우기
+
+Deepl
+Return to Manchester Mike
+맨체스터 마이크에게 돌아가기
+
+Deepl
+Kill the Hooligans
+훌리건 처치하기
+
+Deepl
+Meet Manchester Mike at the safehouse
+안전가옥에서 맨체스터 마이크 만나기
+
+Deepl
+Find, buy or make 3 antibiotics and 1 Morph-X
+항생제 3개와 모프 엑스 1개 찾기, 구매 또는 만들기
+
+Deepl
+Deliver the chems to Manchester Mike
+맨체스터 마이크에게 화학 물질 전달하기
+
+Deepl
+Kill Dennis
+데니스 죽이기
+
+Deepl
+Retrieve the Sober from Manchester Mike's safe
+맨체스터 마이크의 금고에서 소버를 회수하기.
+
+Deepl
+Give Prince Pete the Sober
+피트 왕자에게 술 먹이기
+
+Deepl
+Investigate the fight
+전투 조사
+
+Deepl
+Get the backpack
+배낭을 가져오기
+
+Deepl
+Get the herbs
+허브 받기
+
+Deepl
+Return to Sean with the medical items
+의료품을 가지고 숀에게 돌아가기
+
+Deepl
+Speak to Middleton
+미들턴와 대화하기
+
+Deepl
+Find the Caledonia
+칼레도니아 찾기
+
+Deepl
+Speak with Kumar
+쿠마르와 대화하기
+
+Deepl
+Follow Kumar
+쿠마르 따라가기
+
+Deepl
+Discuss Trade with Kumar
+쿠마르와 무역 논의하기
+
+Deepl
+(Optional) Tell Middleton of Kumar's Descision
+(선택 사항) 미들턴에게 쿠마르의 결심을 전하기.
+
+Deepl
+Retrieve the Charter
+헌장 검색
+
+Deepl
+Return to Middleton
+미들턴으로 돌아가기
+
+Deepl
+Deliver the Charter
+헌장 전달
+
+Deepl
+Speak to Clive
+클라이브와 대화하기
+
+Deepl
+Break into the BBM with the orchestra
+오케스트라와 함께 BBM에 침입하기
+
+Deepl
+Confront the Station Manager
+스테이션 매니저와 대면하기
+
+Deepl
+Recover the tape from Empire Records
+엠파이어 레코드에서 테이프 회수하기
+
+Deepl
+Return the tape to Clive
+클라이브에게 테이프 돌려주기
+
+Deepl
+Input the tape into Bradley Fortworth
+브래들리 포트워스에 테이프 입력하기
+
+Deepl
+Return to Clive
+클라이브에게 돌아가기
+
+Deepl
+Quest End
+퀘스트 종료
+
+Deepl
+Acquire the Crackle and Pop Special
+크래클 앤 팝 스페셜 획득하기
+
+Deepl
+Acquire ingredients for Sybil
+시빌의 재료 획득하기
+
+Deepl
+(Optional) Get Sybil sober
+(선택 사항) 시빌의 술 깨우기
+
+Deepl
+Deliver the Crackle and Pop Special to Sybil
+시빌에게 크래클 앤 팝 스페셜을 전달하기.
+
+Deepl
+Deliver ingredients to Sybil 
+시빌에게 재료 전달하기
+
+Deepl
+Report on Sybil's sobriety to Laurence
+로렌스에게 시빌이 술에서 깨어났다고 보고하기
+
+Deepl
+Discreetly Return the Watch
+조심스럽게 시계 반환하기
+
+Deepl
+<Optional> Inform Amanda about the Watch
+<선택 사항> 아만다에게 시계에 대해 알리기
+
+Deepl
+Return to Avis
+아비스로 돌아가기
+
+Deepl
+Search St Pancras International for the cask
+세인트 판크라스 인터내셔널에서 캐스크 검색하기
+
+Deepl
+Search Golden Elm for the cask
+골든 엘름에서 통을 검색하기
+
+Deepl
+Search Eastminster Pindar for the cask
+이스트민스터 핀다에서 술통 검색하기
+
+Deepl
+Search Coach House Pub for the cask
+코치 하우스 펍에서 술통 검색
+
+Deepl
+Search Four Leaf Pub for the cask
+포 리프 펍에서 술통 검색
+
+Deepl
+Deliver cask to Zack
+잭에게 술통 전달하기
+
+Deepl
+Place the cask
+술통 놓기
+
+Deepl
+Piss in the cask
+술통에 오줌 누기
+
+Deepl
+Serve the Abhainn Oir
+아바인 오어 서빙하기
+
+Deepl
+Get payment from Zack
+잭에게 대금 받기
+
+Deepl
+Enter the Syndicate warehouse
+신디케이트 창고로 들어가기.
+
+Deepl
+(Optional) Speak with Frosty Valentina
+(선택 사항) 서리가 내린 발렌티나와 대화하기
+
+Deepl
+(Optional) Bring Valentina copper, plastic and a piece of circuitry
+(선택 사항) 발렌티나 구리, 플라스틱, 회로 조각을 가져오기
+
+Deepl
+(Optional) Let the Vagabonds in
+(선택 사항) 베가본드 들여보내기
+
+Deepl
+Burn the warehouse
+창고 불태우기
+
+Deepl
+Return to Anthony
+앤서니에게 돌아가기.
+
+Deepl
+Speak to Gaunt
+건트와 대화하기
+
+Deepl
+Ask Winston about Lockheed
+윈스턴에게 록히드에 대해 물어보기
+
+Deepl
+Ask Anthony about Sinclair
+앤서니에게 싱클레어에 대해 물어보기
+
+Deepl
+Ask Johnny about Pieter
+조니에게 피터에 대해 물어보기
+
+Deepl
+Go to Lockheed's mistress's flat
+록히드의 내연녀의 아파트로 이동하기
+
+Deepl
+Deal with John Lockheed
+존 록히드와 거래하기
+
+Deepl
+Kill John Lockhead
+존 록헤드 죽이기
+
+Deepl
+Talk to Lexi
+렉시와 대화하기
+
+Deepl
+Use the Key to enter the Factory
+열쇠를 사용하여 공장으로 들어가기
+
+Deepl
+Kill Sinclair
+싱클레어 죽이기
+
+Deepl
+(Optional) Burn Sinclair's body
+(선택 사항) 싱클레어의 시체 태우기
+
+Deepl
+Find Pieter the Fence in Westminster
+웨스트민스터에서 울타리 피터 찾기
+
+Deepl
+Kill Pieter
+피터 죽이기
+
+Deepl
+Get the ledger
+장부 가져오기
+
+Deepl
+Collect your Weapons
+무기 수집
+
+Deepl
+Return to Gaunt
+건트에게 돌아가기
+
+Deepl
+Enter HMS Dredge
+HMS 드레지 진입하기
+
+Deepl
+Take out the Syndicate security
+신디케이트 경비병 처치하기
+
+Deepl
+Speak to the Vagabond prisoners
+베가본드 죄수와 대화하기
+
+Deepl
+Release the Vagabonds via the terminal
+터미널을 통해 베가본드 석방하기
+
+Deepl
+Reset the cell terminal password
+셀 터미널 암호 재설정
+
+Deepl
+Speak to the Vagabonds
+베가본드들과 대화하기
+
+Deepl
+(Optional) Plant the bombs on the lower deck
+(선택 사항) 아래 갑판에 폭탄을 설치하기
+
+Deepl
+(Optional) Release the rest of the prisoners
+(선택 사항) 나머지 포로들을 풀어주기.
+
+Deepl
+(Optional) Find a way to open the armoury
+(선택 사항) 무기고 열 방법 찾기
+
+Deepl
+Return to Agatha
+아가사에게 돌아가기
+
+Deepl
+Meet Dennis at the Oberon
+오베론에서 데니스를 만나보기
+
+Deepl
+Find, buy or make 3 Calmex
+칼멕스 3개 찾기, 구매 또는 만들기
+
+Deepl
+Deliver the Calmex to Dennis and Joan at the Shoppe
+상점에 있는 데니스와 조안에게 칼멕스를 전달하기
+
+Deepl
+Get Rosie's roundel
+로지의 라운젤 받기
+
+Deepl
+Get Guy's roundel
+가이의 라운젤 획득하기
+
+Deepl
+Return Rosie and Guy's roundels to Dennis
+데니스에게 로지와 가이의 라운젤을 돌려주기
+
+Deepl
+Speak to Patrick Smiths about Manchester Mike
+패트릭 스미스에게 맨체스터 마이크에 대해 이야기하기
+
+Deepl
+Fight Patrick Smiths
+패트릭 스미스 쓰러뜨리기
+
+Deepl
+Kill Patrick Smiths
+패트릭 스미스 처치하기
+
+Deepl
+Return to Dennis
+데니스에게 돌아가기
+
+Deepl
+Speak to Roger Moon
+로저 문과 대화하기
+
+Deepl
+Kill Roger Moon
+로저 문 죽이기
+
+Deepl
+Find Joan at the Oberon
+오베론에서 조안 찾기
+
+Deepl
+Meet Dennis on Birnham Drive
+버넘 드라이브에서 데니스 만나기
+
+Deepl
+Defeat Manchester Mike and his allies
+맨체스터 마이크와 그의 동료 처치하기
+
+Deepl
+Defeat Dennis Blandford and his allies
+데니스 블랜드포드와 그의 동료 처치하기
+
+Deepl
+Speak to Victor Schmidt
+빅터 슈미트와 대화하기
+
+Deepl
+Speak to Braiden Knight in Eastminster
+이스트민스터의 브레이든 나이트와 대화하기
+
+Deepl
+Listen to Evelyn Williams' Issue
+에블린 윌리엄스의 이슈 듣기
+
+Deepl
+Convince Darius to leave the gang
+다리우스가 갱단을 떠나도록 설득하기
+
+Deepl
+(Optional) Question Evelyn about why Darius wants this life
+(선택 사항) 에블린에게 다리우스가 왜 이 삶을 원하는지 물어보기.
+
+Deepl
+(Optional) Speak with the Isle of Dogs syndicate about Darius' father
+(선택 사항) 다리우스의 아버지에 대해 개들의 섬 신디케이트와 이야기하기.
+
+Deepl
+(Optional) Find Rupert's Journal
+(선택 사항) 루퍼트의 일기 찾기
+
+Deepl
+Confront Darius
+다리우스와 맞서다
+
+Deepl
+Tell Evelyn of your success
+에블린에게 성공했다고 말하기
+
+Deepl
+Help Caleb Wood
+갈렙 우드를 도와줘
+
+Deepl
+Report back to Braiden Knight
+브레이든 나이트에게 보고하기
+
+Deepl
+Recruit Giovanni
+지오바니 모집하기
+
+Deepl
+Take Giovanni to Braiden Knight
+지오바니를 브레이든 기사에게 데려가라
+
+Deepl
+Watch the Recruitment
+모집 보기
+
+Deepl
+Defend Braiden Knight
+브레이든 나이트 방어하기
+
+Deepl
+Deal with Giovanni
+지오바니와 거래하기
+
+Deepl
+Speak to Braiden Knight
+브레이든 나이트와 대화하기
+
+Deepl
+Treat Ms Davison
+데이비슨 씨 치료하기
+
+Deepl
+Treat Mr Breen
+브린 씨 치료하기
+
+Deepl
+Treat Sally Evans
+샐리 에반스 치료하기
+
+Deepl
+Tell Caleb Wood about the patients
+케일럽 우드에게 환자에 대해 말하기
+
+Deepl
+Convince the Doctor to Return
+의사가 돌아오도록 설득하기
+
+Deepl
+Return to Caleb Wood
+케일럽 우드로 돌아가기
+
+Deepl
+Meet Bedivere in the Tower Hamlets
+타워 햄릿에서 베디베르를 만나보기
+
+Deepl
+Sit down with Bedivere
+베디베리와 함께 앉기
+
+Deepl
+Clear out the Tower of London
+런던 타워 정리하기
+
+Deepl
+Return to Bedivere
+베디베리로 돌아가기
+
+Deepl
+Meet Guinevere near the LT Tower
+LT 타워 근처에서 기네비어 만나기
+
+Deepl
+Equip the 5th Column Disguise
+제 5열 변장 장비하기
+
+Deepl
+Walk with Guinevere
+기네비어와 함께 걷기
+
+Deepl
+Enter the LT Tower basement
+LT 타워 지하로 들어가기
+
+Deepl
+Sabotage the LT Tower power module
+LT 타워 전력 모듈 파괴하기
+
+Deepl
+Don't break cover
+엄폐물 파괴하지 않기
+
+Deepl
+Meet back up with Guinevere
+기네비어와 다시 만나기
+
+Deepl
+Speak to Merlin at the Tower of London
+런던탑에서 멀린과 대화하기
+
+Deepl
+Get the coordinates of Cable Street's defences
+케이블 스트리트 방어선 좌표 가져오기
+
+Deepl
+Return to Merlin
+멀린에게 돌아가기
+
+Deepl
+Rescue Kay
+레스큐 케이
+
+Deepl
+Get in position for the battle
+전투를 위한 위치 확보
+
+Deepl
+Charge!
+충전!
+
+Deepl
+Storm their headquarters!
+본부를 습격하기!
+
+Deepl
+Confront Eve
+이브와 대결하기
+
+Deepl
+Speak to Arthur
+아서와 대화하기
+
+Deepl
+Tell Veronica about the Note
+베로니카에게 메모에 대해 전하기
+
+Deepl
+Go to the Bank
+은행으로 이동
+
+Deepl
+Return the information to Roger Moon
+로저 문에게 정보 반환
+
+Deepl
+Find the Getaway Cars
+도주 차량 찾기
+
+Deepl
+Report your findings to Roger Moon
+로저 문에게 발견한 정보 보고하기
+
+Deepl
+Find the Coach
+코치 찾기
+
+Deepl
+Return to Roger Moon
+로저 문에게 돌아가기
+
+Deepl
+Find Georgia
+조지아 찾기
+
+Deepl
+(Optional) Talk to Annalyn Lee
+(선택 사항) 애널린 리와 대화하기
+
+Deepl
+Go to Deptford bus garage
+뎁포드 버스 차고로 이동
+
+Deepl
+Gather five special Rad Nettles
+특별한 래드 네틀 5개 수집하기
+
+Deepl
+(Optional) Distract Fluffy
+(선택 사항) 플러피의 주의를 분산
+
+Deepl
+(Optional) Kill Fluffy
+(선택 사항) 플러피 죽이기
+
+Deepl
+(Optional) Tell Rosie about the Wedding Band
+(선택 사항) 로지에게 웨딩 밴드에 대해 말해주기.
+
+Deepl
+Return to Rosie Lee
+로지 리에게 돌아가기.
+
+Deepl
+Report to Pvt Tommy
+토미 일병에게 보고
+
+Deepl
+ Go to the Pindar Station
+핀다르 역으로 이동
+
+Deepl
+Traverse the Pindar Station
+핀다르 역 횡단
+
+Deepl
+Find the Lost Tommies
+잃어버린 토미 찾기
+
+Deepl
+Acquire some evidence
+증거 수집하기
+
+Deepl
+Find the source of the Distress Call
+조난 신호의 출처 찾기
+
+Deepl
+Shut down the Distress Call
+조난 신호 종료하기
+
+Deepl
+Escape!
+탈출!
+
+Deepl
+Return the evidence to Mr Tommy
+토미 씨에게 증거물 돌려주기
+
+Deepl
+Get the Sheet Music
+악보 가져오기
+
+Deepl
+Return to Audra
+오드라에게 돌아가기
+
+Deepl
+Return in 3 days after Audra has practiced
+오드라가 연습한 후 3일 후에 돌아가기
+
+Deepl
+Check in on Audra
+오드라 확인
+
+Deepl
+(Optional) Deliver Pvt Baker's orders to Pvt Fox
+(선택 사항) 베이커 일병의 명령을 폭스 일병에게 전달하기
+
+Deepl
+(Optional) Speak to Lieutenant Dunn
+(선택 사항) 던 중위에게 말하기.
+
+Deepl
+(Optional) Deliver Lieutenant Dunn's letter to Pvt Fox
+(선택 사항) 던 중위의 편지를 폭스 일병에게 전달하기
+
+Deepl
+(Optional) Tell Pvt Baker about the letter
+(선택 사항) 베이커 일병에게 편지에 대해 말하기
+
+Deepl
+Take the letter to Pvt Fox
+폭스 일병에게 편지를 가져가기
+
+Deepl
+Return to Pvt Baker
+베이커 일병에게 돌아가
+
+Deepl
+Return to Lieutenant Dunn
+던 중위에게 돌아가
+
+Deepl
+Speak to Lieutenant Dunn
+던 중위와 대화하기
+
+Deepl
+Speak to Yvette
+이베트와 대화하기
+
+Deepl
+Read Nelson's Note
+넬슨의 노트 읽기
+
+Deepl
+Go to Nelson's room
+넬슨의 방으로 이동
+
+Deepl
+(Optional) Talk to Gaunt
+(선택 사항) 건트와 대화하기
+
+Deepl
+Intercept Thomas Black's train
+토마스 블랙의 기차 가로채기
+
+Deepl
+Confront Thomas Black
+토마스 블랙과 대면하기
+
+Deepl
+Speak to Blind Nelson
+눈먼 넬슨과 대화하기
+
+Deepl
+Face Thomas Black
+토마스 블랙과 대면하기
+
+Deepl
+Kill Black
+킬 블랙
+
+Deepl
+Talk to Gaunt
+건트와 대화하기
+
+Deepl
+Follow Gaunt to the lounge
+건트를 따라 라운지로 가기
+
+Deepl
+Follow Gaunt outside
+건트를 따라 밖으로 나가
+
+Deepl
+Kill Gaunt
+건트 처치
+
+Deepl
+Report to Black
+블랙에게 보고
+
+Deepl
+Speak to Ayesha
+아예샤와 대화하기
+
+Deepl
+Clear out first safehouse
+첫 번째 안가를 비워라
+
+Deepl
+Find out the location of the second safehouse
+두 번째 안전가옥의 위치를 알아내기
+
+Deepl
+Clear out second safehouse
+두 번째 안전가옥 정리
+
+Deepl
+Return to Ayesha
+아예샤에게 돌아가기
+
+Deepl
+Talk to Black
+블랙과 대화하기
+
+Deepl
+Clear out Vagabonds' cache points
+베가본드의 캐시 포인트 지우기
+
+Deepl
+Return to Black
+블랙에게 돌아가기
+
+Deepl
+Destroy the Vagabonds
+베가본드 파괴하기
+
+Deepl
+Confront Gaunt
+건트 대면
+
+Deepl
+Deal with Gaunt
+건트 상대하기
+
+Deepl
+Prevent Reactor Meltdown
+리액터 멜트다운 막기
+
+Deepl
+Use Black's radio
+블랙의 무전기를 사용하기
+
+Deepl
+Loot Black's gun
+블랙의 총을 약탈하기
+
+Deepl
+Meet Gaunt outside
+밖에서 건트를 만나기
+
+Deepl
+Help Johnny
+조니 돕기
+
+Deepl
+Help Winston
+윈스턴 돕기
+
+Deepl
+Help Anthony
+앤서니 돕기
+
+Deepl
+Return to the square
+광장으로 돌아가라
+
+Deepl
+Find the Lady of the Lake
+호수의 여인 찾기
+
+Deepl
+Drain the Missile Silo
+미사일 사일로 비우기
+
+Deepl
+Wait for the Missile Silo to Drain
+미사일 사일로가 비워질 때까지 기다리기
+
+Deepl
+Access the Silo
+사일로 접근
+
+Deepl
+Find Excalibur
+엑스칼리버 찾기
+
+Deepl
+Defeat Modred
+모드레드 처치
+
+Deepl
+Read the Note
+노트 읽기
+
+Deepl
+Find Excalibur in Croydon
+크로이돈에서 엑스칼리버 찾기
+
+Deepl
+Pull the Sword in the Stone
+돌 속의 검 뽑기
+
+Deepl
+Defeat Morgana
+모르가나 처치하기
+
+Deepl
+Travel to Poplar Station
+포플러 역으로 이동
+
+Deepl
+Stop the Supply Train
+보급 열차 정차
+
+Deepl
+(Optional) Destroy the Train
+(선택 사항) 열차 파괴
+
+Deepl
+(Optional) Redirect the train
+(선택 사항) 열차 방향 변경
+
+Deepl
+Ride the train
+기차 타기
+
+Deepl
+Place the Poster
+포스터 배치하기
+
+Deepl
+Defend the Poster
+포스터 지키기
+
+Deepl
+Report Back to Percival
+퍼시벌에게 보고하기
+
+Deepl
+Speak to Guido
+귀도와 대화하기
+
+Deepl
+Put up Guido's Propaganda
+귀도의 선전물 붙이기
+
+Deepl
+<Optional> Speak to Lily
+<선택 사항> 릴리와 대화하기
+
+Deepl
+Tell Guido of your Success
+귀도에게 성공 소식 전하기
+
+Deepl
+Investigate Camelot after the tournament
+토너먼트가 끝난 후 카멜롯을 조사하기
+
+Deepl
+Find Arthur
+아서 찾기
+
+Deepl
+Watch the quarrelling knights
+다투는 기사들을 지켜보기
+
+Deepl
+Investigate the Fifth Column after the tournament
+토너먼트가 끝난 후 제 5열을 조사하기
+
+Deepl
+Speak to the recruitment officer on Cable Street
+케이블 스트리트의 모집 담당자와 대화하기
+
+Deepl
+Follow Guido
+귀도 따라가기
+
+Deepl
+Speak to Eve
+이브와 대화하기
+
+Deepl
+Talk to Car Salesman
+자동차 세일즈맨과 대화
+
+Deepl
+Check Car
+차량 확인
+
+Deepl
+Confront Moe
+모에 맞서기
+
+Deepl
+Listen to Percival's news
+퍼시벌의 소식 듣기
+
+Deepl
+Talk to Arthur
+아서와 대화하기
+
+Deepl
+Investigate the explosion at Charing Cross
+채링 크로스의 폭발 사건 조사하기
+
+Deepl
+(Optional) Ask Merlin and Percival about the explosion
+(선택 사항) 멀린과 퍼시벌에게 폭발에 대해 물어보기
+
+Deepl
+Speak to Colonel George Major
+조지 메이저 대령과 대화하기
+
+Deepl
+Investigate the explosion site
+폭발 현장 조사하기
+
+Deepl
+Investigate the Charing Cross Underground
+채링 크로스 지하 조사하기
+
+Deepl
+Follow the tunnel north
+북쪽 터널을 따라가기
+
+Deepl
+Speak to the knights
+기사단과 대화하기
+
+Deepl
+Go to St Anne's Churchyard
+세인트 앤 교회당으로 이동
+
+Deepl
+Speak to Tucker
+터커와 대화하기
+
+Deepl
+Deal with the 5th Columnists
+제 5열니스트와 거래하기
+
+Deepl
+Free Tristan's family
+트리스탄의 가족을 풀어주기
+
+Deepl
+Search the churchyard for useful information
+교회 마당에서 유용한 정보 검색하기
+
+Deepl
+Return to Tristan and Iseult
+트리스탄과 이설트에게 돌아가기
+
+Deepl
+Give Arthur a full report
+아서에게 전체 보고서 전달하기
+
+Deepl
+Speak to John Smith
+존 스미스와 대화하기
+
+Deepl
+Ask Muirgheal about the books
+뮤어힐에게 책에 대해 물어보기
+
+Deepl
+Find the British Library
+대영 도서관 찾기
+
+Deepl
+Find books for Lily in the British Museum
+대영박물관에서 릴리를 위한 책 찾기
+
+Deepl
+Deal with the museum's curator
+박물관 큐레이터와 상담하기
+
+Deepl
+Return to John Smith
+존 스미스에게 돌아가기
+
+Deepl
+Leave HQ or Wait for the ruckus to end
+본부를 떠나거나 소동이 끝날 때까지 기다리기
+
+Deepl
+Attend Lily's lesson
+릴리의 수업에 참석하기
+
+Deepl
+Talk to John Smith
+존 스미스와 대화하기
+
+Deepl
+Report to Victor Schmidt
+빅터 슈미트에게 보고
+
+Deepl
+Speak to Horatio Whitehouse
+호레이쇼 화이트하우스와 대화하기
+
+Deepl
+Investigate Thameshaven
+템즈헤븐 조사
+
+Deepl
+Talk to Dr. Alan Webb
+앨런 웹 박사와 대화하기
+
+Deepl
+Find out about Tunnel Cough immunity in Thameshaven
+템즈헤븐에서 터널 기침 면역에 대해 알아보기.
+
+Deepl
+Talk to Margery
+마저리와 대화하기
+
+Deepl
+Convince Margery to go to Cable Street
+마저리를 설득하여 케이블 스트리트로 가도록 하기.
+
+Deepl
+Talk to Horatio
+호레이쇼와 대화
+
+Deepl
+Inform Dr. Webb about his Granddaughter
+웹 박사에게 손녀에 대해 알리기
+
+Deepl
+Take Dr. Webb back to the 5th Column
+웹 박사를 제 5열으로 데려가기
+
+Deepl
+Discover what is going on
+무슨 일이 일어나고 있는지 알아보기
+
+Deepl
+Get your petition signed by the leader of Camden
+캠든의 지도자에게 청원서 서명 받기
+
+Deepl
+Get your petition signed by the leader of Hackney
+해크니의 리더에게 청원서 서명 받기
+
+Deepl
+Get your petition signed by the leader of Lambeth
+램버스의 지도자의 청원서 서명 받기
+
+Deepl
+Get your petition signed by the leader of Islington
+이슬링턴의 지도자에게 청원서 서명 받기
+
+Deepl
+(Optional) Talk to Clifford on Bridge Street
+(선택 사항) 브리지 스트리트의 클리포드에게 이야기하기
+
+Deepl
+(Backup) Find a document with the leader of Camden's signature
+(지원) 캠든의 지도자의 서명이 있는 문서 찾기
+
+Deepl
+(Optional) Forge the leader of Camden's signature
+(선택 사항) 캠든의 지도자 서명 위조하기
+
+Deepl
+(Backup) Find a document with the leader of Hackney's signature
+(백업) 해크니의 지도자 서명이 있는 문서 찾기
+
+Deepl
+(Optional) Forge the leader of Hackney's signature
+(선택 사항) 해크니의 서명을 위조하기
+
+Deepl
+(Backup) Find a document with the leader of Lambeth's signature
+(백업) 램버스의 지도자 서명이 있는 문서 찾기
+
+Deepl
+(Optional) Forge the leader of Lambeth's signature
+(선택 사항) 램버스 서명의 지도자 위조하기
+
+Deepl
+(Backup) Find a document with the leader of Islington's signature
+(백업) 이슬링턴의 지도자 서명이 있는 문서 찾기
+
+Deepl
+(Optional) Forge the leader of Islington's signature
+(선택 사항) 이슬링턴의 지도자 서명을 위조하기
+
+Deepl
+Bring the petition to parliament
+청원서를 의회로 가져가기
+
+Deepl
+Take the "Discreet entrance"
+"신중한 입구"로 가기
+
+Deepl
+Speak with Merlin
+멀린과 대화하기
+
+Deepl
+Travel to the northern outpost
+북쪽 전초기지로 여행하기
+
+Deepl
+Speak with Knight Gawain
+기사 가웨인과 대화하기
+
+Deepl
+Read Knight Gawain's northern outpost report
+기사 가웨인의 북부 전초기지 보고서 읽기
+
+Deepl
+Discuss the report with Gawain
+가웨인과 보고서 논의하기
+
+Deepl
+(Optional) Speak with members of the squad about the outpost's combat readiness
+(선택 사항) 전초 기지의 전투 준비 상태에 대해 부대원들과 대화하기.
+
+Deepl
+(Optional) Return to Gawain early and inform her that the outpost is ready to attack
+(선택 사항) 가웨인에게 일찍 돌아가 전초기지가 공격할 준비가 되었다고 알리기
+
+Deepl
+Secure food from the Fletchers
+플레처 가문으로부터 식량 확보하기
+
+Deepl
+Secure Timber from the Baileys
+베일리 가문으로부터 목재 확보하기
+
+Deepl
+Talk to Lancelot about sandbags
+랜슬롯에게 모래주머니에 대해 이야기하기
+
+Deepl
+Speak to Levy Daniels
+레비 다니엘스와 대화하기
+
+Deepl
+Chase Levy Daniels
+레비 다니엘스 추격하기
+
+Deepl
+Speak to Scout Duale about heavy weaponry
+정찰병 듀얼에게 중화기에 대해 말하기
+
+Deepl
+Retrieve the heavy weaponry
+중화기 회수하기
+
+Deepl
+Defeat the cannibals to the south
+남쪽의 식인종 처치하기
+
+Deepl
+Encourage Alex to do explosives training
+알렉스에게 폭발물 훈련을 하도록 격려하기
+
+Deepl
+Help Alex figure out which landmine is correct
+알렉스가 어떤 지뢰가 맞는지 알아내도록 도와주기
+
+Deepl
+Tell Lancelot about the incident with Alex
+랜슬롯에게 알렉스와의 사건에 대해 말하기
+
+Deepl
+Inform Gawain that the outpost is ready to attack
+가웨인에게 전초기지가 공격할 준비가 되었다고 알리기
+
+Deepl
+Tell the squad to get in position for the raid
+분대원들에게 습격을 위한 준비 태세를 갖추라고 말하기
+
+Deepl
+Meet your squad outside the factory
+공장 밖에서 분대원 만나기
+
+Deepl
+Take out the hooligans outside the factory
+공장 밖의 훌리건들을 처치하기
+
+Deepl
+Enter the factory with your squad
+분대원과 함께 공장으로 들어가기
+
+Deepl
+Fight through the factory
+공장 통과하기
+
+Deepl
+Open the security gate
+보안 게이트 열기
+
+Deepl
+Meet with your squad outside
+밖에서 팀원들과 만나기
+
+Deepl
+Debrief with your squad
+분대원들과 디브리핑
+
+Deepl
+Report to Merlin
+멀린에게 보고하기
+
+Deepl
+Speak to Bob
+밥와 대화하기
+
+Deepl
+Speak to Dr. Webb
+웹 박사와 대화하기
+
+Deepl
+Journey to the Bethlem Royal Hospital
+베들레헴 왕립 병원으로의 여정
+
+Deepl
+Locate the stash of medication
+약품의 은닉처 찾기
+
+Deepl
+Report in to Dr. Webb
+닥터 웹에게 보고하기
+
+Deepl
+Return to Bob Clarkson
+밥 클락슨으로 돌아가기
+
+Deepl
+Investigate the shouting
+고함 소리 조사하기
+
+Deepl
+Listen to Allen's speech
+앨런의 연설 듣기
+
+Deepl
+Talk to Harvin
+하빈과 대화하기
+
+Deepl
+Find Harvin's office
+하빈의 사무실을 찾기
+
+Deepl
+Speak to Harvin
+하빈와 대화하기
+
+Deepl
+Follow Harvin
+하빈 따라가기
+
+Deepl
+Speak to Allen
+알렌와 대화하기
+
+Deepl
+Eliminate Allen
+알렌 제거하기
+
+Deepl
+Kill Harvin
+하빈 죽이기
+
+Deepl
+Speak to Lieutenant Doyle
+도일 중위와 대화하기
+
+Deepl
+Travel into Croydon
+크로이돈으로 여행하기
+
+Deepl
+Build a bridge deeper into Croydon
+크로이돈으로 더 깊숙이 다리 건설하기
+
+Deepl
+(Optional) Access the building supplies in Croydon Pindar
+(선택 사항) 크로이돈 핀다르의 건축 자재에 접근하기
+
+Deepl
+(Optional) Find the Croydon Pindar key in the Crystal Palace Maze
+(선택 사항) 크리스탈 팰리스 미로에서 크로이돈 핀다르 열쇠를 찾기
+
+Deepl
+Travel further into Croydon
+크로이돈으로 더 멀리 여행하기
+
+Deepl
+Find a new support beam
+새로운 지원 빔 찾기
+
+Deepl
+Help the stranded Tommies
+좌초된 토미들을 도와주기
+
+Deepl
+Speak to the officer
+장교와 대화하기
+
+Deepl
+Make contact with the Croydonians
+크로이돈인과 접촉하기
+
+Deepl
+Speak to Second Lieutenant Buckley
+버클리 중위와 대화하기
+
+Deepl
+Report to Lieutenant Doyle
+도일 중위에게 보고하기
+
+Deepl
+Return to Chief Roach
+로치 족장에게 돌아가기
+
+Deepl
+Meet Horatio at the Broadcasting House
+방송국에서 호레이쇼를 만나보기
+
+Deepl
+Find the passcode in the Broadcasting House
+방송국에서 암호 찾기
+
+Deepl
+Speak to Horatio
+호레이쇼와 대화하기
+
+Deepl
+Reinforce the LT Tower
+대위 타워 강화
+
+Deepl
+Report to the Tommy Officer
+토미 장교에게 보고하기
+
+Deepl
+Take over the LT Tower
+LT 타워 점령하기
+
+Deepl
+Deal with the Angel Operative
+앤젤 요원 상대하기
+
+Deepl
+Rendezvous with Eve
+이브와 랑데부
+
+Deepl
+Ascend
+오르기
+
+Deepl
+Clear the 1st Floor
+1층 클리어
+
+Deepl
+Restart the Lift
+리프트 재시동
+
+Deepl
+Get on the Lift
+리프트 탑승
+
+Deepl
+Clear the 2nd Floor
+2층 클리어
+
+Deepl
+Find a way to the Top
+정상으로 가는 길 찾기
+
+Deepl
+Speak to Bradley Forthworth
+브래들리 포스워스와 대화하기
+
+Deepl
+Insert the holotape into the mainframe
+메인프레임에 홀로테이프 삽입하기
+
+Deepl
+Speak with Eve
+이브와 대화하기
+
+Deepl
+Descend
+내려가기
+
+Deepl
+Debrief with Eve
+이브와 디브리핑
+
+Deepl
+Talk to Dawkins and Lillian
+도킨스와 릴리언과 대화하기
+
+Deepl
+Find Timmy
+티미 찾기
+
+Deepl
+Converse with Timmy
+티미와 대화하기
+
+Deepl
+Find a way to free Timmy
+티미를 풀어줄 방법 찾기
+
+Deepl
+Speak to Timmy and Dawkins
+티미와 도킨스와 대화하기
+
+Deepl
+Speak to Lillian
+릴리안과 대화하기
+
+Deepl
+Speak to Dawkins
+도킨스와 대화하기
+
+Deepl
+Visit the Ferryman back in Thameshaven
+템즈헤븐에 있는 페리맨을 찾아가기
+
+Deepl
+Speak to Bob Clarkson
+밥 클락슨과 대화하기
+
+Deepl
+Search Carl's Shack
+칼의 오두막 찾기
+
+Deepl
+Speak to Jeremy Lewis
+제레미 루이스와 대화하기
+
+Deepl
+Ask the Thamesfolk about Carl
+템즈포크에게 칼에 대해 물어보기
+
+Deepl
+Find Carl
+칼 찾기
+
+Deepl
+Search Carl's Body
+칼의 시신 찾기
+
+Deepl
+Bring the Holotape to Rachel
+레이첼에게 홀로테이프 가져오기
+
+Deepl
+Return to Bob
+밥으로 돌아가기
+
+Deepl
+Speak to Angela
+안젤라와 대화하기
+
+Deepl
+Dethrone the Empress
+황후 폐위시키기
+
+Deepl
+Travel to the Greenwich Impact Crater
+그리니치 충돌 분화구로 여행하기
+
+Deepl
+Take proof of the Mittenlurk Queen's demise
+미텐러크 여왕의 죽음을 증명할 증거 가져가기
+
+Deepl
+Return to Angela
+안젤라에게 돌아가기
+
+Deepl
+Bring the evidence to Horace
+호레이스에게 증거 가져오기
+
+Deepl
+Inform Rachel of Horace's decision
+레이첼에게 호레이스의 결정 알리기
+
+Deepl
+Speak with Arthur
+아더와 대화하기
+
+Deepl
+Go to the Imperial War Museum
+제국 전쟁 박물관으로 이동
+
+Deepl
+Convince the Tommies to negotiate
+토미들을 설득하여 협상하기
+
+Deepl
+Question Major Jonathan Allen
+조나단 알렌 소령에게 질문하기
+
+Deepl
+Return to Arthur
+아서에게 돌아가기
+
+Deepl
+Search the field for Asquith
+필드에서 애스퀴스 찾기
+
+Deepl
+Carry Asquith's body out of the field
+애스퀴스의 시체를 필드 밖으로 운반하기
+
+Deepl
+Speak to Kay
+Kay에게 문의하기
+
+Deepl
+Inform Colonel George Major of Asquith's death
+조지 메이저 대령에게 애스퀴스의 죽음을 알리기
+
+Deepl
+Speak to Arthur in private
+아서에게 개인적으로 말 걸기
+
+Deepl
+Meet Guinevere in Westminster
+웨스트민스터에서 기네비어 만나기
+
+Deepl
+Meet Guinevere at the party
+파티에서 기네비어를 만나기
+
+Deepl
+Blend in and follow Doctor North
+파티에 섞여 노스 박사를 따라가기
+
+Deepl
+Plant the surveillance devices (<Global=FOLON_MQCamelot307_DeviceCounter>/3)
+감시 장치를 심어라 (<Global=FOLON_MQCamelot307_DeviceCounter>/3)
+
+Deepl
+Listen to Doctor North's conversation
+노스 박사의 대화 듣기
+
+Deepl
+Speak to Guinevere
+기네비어와 대화하기
+
+Deepl
+Find Horatio at the trainwreck site
+난파선 현장에서 호레이쇼 찾기
+
+Deepl
+Defeat the 5th Columnists
+제 5열니스트 처치하기
+
+Deepl
+Get evidence from Horatio
+호레이쇼로부터 증거 얻기
+
+Deepl
+Return to Guinevere
+기네비어에게 돌아가기
+
+Deepl
+Give the evidence to Colonel George Major
+조지 메이저 대령에게 증거를 전달하기.
+
+Deepl
+Get both sides of the story (<Global=FOLON_MQCamelot301_Counter01>/2)
+양쪽 이야기를 모두 들어보기 (<Global=FOLON_MQCamelot301_Counter01>/2)
+
+Deepl
+(Optional) Question members of the Bailey family and get a confession
+(선택 사항) 베일리 가족에게 질문하고 자백 받기
+
+Deepl
+(Optional) Challenge John Fletcher to a duel
+(선택 사항) 존 플레처에게 결투 도전하기
+
+Deepl
+(Optional) Question members of the Fletcher family and get a confession
+(선택 사항) 플렛처 가문 구성원에게 질문하고 자백 받기
+
+Deepl
+Investigate the scene of the fire
+화재 현장 조사
+
+Deepl
+Follow the blood trail
+혈흔을 따라가기
+
+Deepl
+Find the person injured during the fire
+화재로 부상당한 사람 찾기
+
+Deepl
+Speak to the boy
+소년과 대화하기
+
+Deepl
+Investigate the shack
+오두막 조사하기
+
+Deepl
+Read the letter
+편지 읽기
+
+Deepl
+(Optional) Check the letter's authenticity
+(선택 사항) 편지의 진위 여부 확인
+
+Deepl
+(Optional) Question Ryan further about his injury
+(선택 사항) 라이언의 부상에 대해 추가 질문하기
+
+Deepl
+(Optional) Find out the truth of Ryan's injury
+(선택 사항) 라이언의 부상에 대한 진실 찾기
+
+Deepl
+Return to Arthur when you're ready to make an accusation
+고발할 준비가 되면 아서에게 돌아가기.
+
+Deepl
+Speak to Percival in his office
+퍼시벌의 사무실에서 퍼시벌과 대화하기
+
+Deepl
+Speak to the tribal leader in Brickton
+브릭턴의 부족 지도자와 대화하기
+
+Deepl
+(Optional) Return to Chief Roach
+(선택 사항) 로치 족장에게 돌아가
+
+Deepl
+Poison the rations supplies with laxatives
+배급품에 설사약 독극물을 주입하기
+
+Deepl
+Shut down the generator powering the turrets
+포탑에 동력을 공급하는 발전기를 끄기
+
+Deepl
+Start some rumours about Lieutenant Doyle
+도일 중위에 대한 소문 퍼뜨리기
+
+Deepl
+Draw anti-Sneed graffiti around the outpost
+전초 기지 주변에 반스니드 낙서 그리기
+
+Deepl
+Set fire to cow manure to stink up the outpost
+소 분뇨에 불을 질러 전초기지에 악취를 풍기기
+
+Deepl
+Start some rumours about Brigadier Sneed
+스니드 준장에 대한 소문 시작하기
+
+Deepl
+Witness Major Sneed's arrival
+스니드 소령의 도착을 목격하기
+
+Deepl
+Speak to Laura
+로라와 대화하기
+
+Deepl
+Speak to Chief Roach
+로치 족장와 대화하기
+
+Deepl
+Hold up Sneed's wagon
+스니드의 마차를 잡기
+
+Deepl
+Fight the guards
+경비병과 싸우기
+
+Deepl
+Take the contents of the wagon
+마차의 내용물 가져가기
+
+Deepl
+Break the news to Brigadier Sneed
+스니드 준장에게 소식 전하기
+
+Deepl
+Wait for the Tommies to leave
+토미들이 떠날 때까지 기다리기
+
+Deepl
+Return to Percival
+퍼시벌로 돌아가기
+
+Deepl
+Speak to Merlin
+멀린과 대화하기
+
+Deepl
+Listen to the scout
+정찰병 말 들어
+
+Deepl
+Go to the northern courtyard
+북쪽 마당으로 가기
+
+Deepl
+Defend the northern courtyard
+북쪽 마당을 지켜라
+
+Deepl
+Flank the main entrance via the sally port
+샐리 포트를 통해 정문 옆으로 가기
+
+Deepl
+Return to the keep
+성채로 돌아가기
+
+Deepl
+Take control of the ground floor
+1층 장악하기
+
+Deepl
+Take control of the lower floor
+아래층 장악하기
+
+Deepl
+Take control of the upper floor
+위층 장악하기
+
+Deepl
+Rescue Percival
+퍼시벌을 구출하기
+
+Deepl
+Meet up with Arthur and Merlin
+아서와 멀린을 만나기
+
+Deepl
+Enter the Southern Courtyard
+남쪽 안뜰로 들어가기
+
+Deepl
+Defend the southern courtyard
+남쪽 안뜰 방어하기
+
+Deepl
+Receive orders from Arthur
+아더의 명령 받기
+
+Deepl
+Drive the Tommies out of Camelot
+토미들을 카멜롯에서 몰아내기
+
+Deepl
+Await news from the keep
+성채에서 소식 기다리기
+
+Deepl
+Check the northern outpost
+북쪽 전초 기지 확인
+
+Deepl
+Give your report to Arthur
+아서에게 보고하기
+
+Deepl
+Meet Lancelot at the tavern
+선술집에서 랜슬롯을 만나기
+
+Deepl
+Interrogate injured Tommy soldiers
+부상당한 토미 병사 심문하기
+
+Deepl
+Get treatment for Lieutenant Tinkler
+팅클러 중위 치료받기
+
+Deepl
+Wait for Kay to treat Lieutenant Tinkler
+케이가 팅클러 중위를 치료할 때까지 기다리기
+
+Deepl
+Speak to Lieutenant Tinkler
+팅클러 중위와 대화하기
+
+Deepl
+Track down the Post Boxer
+포스트 복서 추적하기
+
+Deepl
+Defeat the Post Boxer
+포스트 복서 처치하기
+
+Deepl
+Search the Post Boxer for clues
+포스트 복서에게 단서 찾기
+
+Deepl
+Return to Lancelot
+랜슬롯에게 돌아가기
+
+Deepl
+Defeat Lancelot
+랜슬롯 처치하기
+
+Deepl
+Wait to see who pays up
+누가 돈을 내는지 기다리기
+
+Deepl
+Speak to the gambler
+도박꾼과 대화하기
+
+Deepl
+Speak to Beefy
+비피와 대화하기
+
+Deepl
+Clear the first group of Cannibals
+첫 번째 식인종 그룹 클리어
+
+Deepl
+Clear the second group of Cannibals
+두 번째 식인종 그룹 클리어
+
+Deepl
+Clear the third group of Cannibals
+세 번째 식인종 그룹 클리어
+
+Deepl
+Return to Beefy
+비피에게로 돌아가기
+
+Deepl
+Deactivate the Tesla Coil
+테슬라 코일 비활성화
+
+Deepl
+Talk to Shaun
+션과 대화하기
+
+Deepl
+Kill Shaun
+숀 죽이기
+
+Deepl
+Kill Cambridge
+캠브리지 죽이기
+
+Deepl
+Kill Farnborough
+판버러 죽이기
+
+Deepl
+Kill Leeds
+리즈 죽이기
+
+Deepl
+Talk to Cambridge
+캠브리지와 대화
+
+Deepl
+Greet the Gardener
+정원사에게 인사하기
+
+Deepl
+Reach the Maze Centre
+미로 센터에 도착하기
+
+Deepl
+Find the Maze Keys
+미로 열쇠 찾기
+
+Deepl
+Get the Maze Exit Key
+미로 출구 열쇠 받기
+
+Deepl
+Escape the Maze
+미로 탈출
+
+Deepl
+Speak with Derek
+데릭과 대화하기
+
+Deepl
+Convene with Eve
+이브와 대화하기
+
+Deepl
+Travel to the Imperial War Museum
+제국 전쟁 박물관으로 여행하기
+
+Deepl
+Meet with Derek and Major Jonathan Allen
+데릭과 조나단 앨런 소령 만나기
+
+Deepl
+Journey to Buckingham Palace
+버킹엄 궁전으로 여행하기
+
+Deepl
+Plan the attack with Derek
+데릭과 함께 공격 계획 세우기
+
+Deepl
+Wait for Derek to give orders to the militiamen
+데릭이 민병대에게 명령을 내릴 때까지 기다리기
+
+Deepl
+Wait for the 5th Column to breach the gate
+제5열이 성문을 돌파할 때까지 기다리기.
+
+Deepl
+Storm Buckingham Palace
+버킹엄 궁전 습격
+
+Deepl
+Clear the Palace interior
+궁전 내부 섬멸하기
+
+Deepl
+Convince Princess Elizabeth to ally with the Fifth Column
+엘리자베스 공주가 제5열과 동맹을 맺도록 설득하기
+
+Deepl
+Kill the Royals and take their heads
+왕족을 처치하고 목을 차지하기
+
+Deepl
+Return to Major Allen
+알렌 소령에게 돌아가기
+
+Deepl
+Follow Major Allen
+알렌 소령 따라가기
+
+Deepl
+Present the head to General Asquith
+애스퀴스 장군에게 머리 제시
+
+Deepl
+Present the writ of allegience to General Asquith
+애스퀴스 장군에게 충성 맹세서를 제시하기.
+
+Deepl
+Observe the coup
+쿠데타 관찰하기
+
+Deepl
+Kill the resistors
+저항군 처치하기
+
+Deepl
+Speak to General Allen
+알렌 장군와 대화하기
+
+Deepl
+Speak to Derek
+데릭와 대화하기
+
+Deepl
+Return to Eve
+이브로 돌아가기
+
+Deepl
+Wait for the 5th Column Leadership
+5열 지도자 대기
+
+Deepl
+Discover the 5th Column's next step
+5열의 다음 단계 알아보기
+
+Deepl
+Interrogate the Prisoner
+죄수 심문하기
+
+Deepl
+Speak to Rhys
+Rhys와 대화하기
+
+Deepl
+Speak to Lancelot
+랜슬롯와 대화하기
+
+Deepl
+Force the Guard to leave
+근위병 강제 퇴장시키기
+
+Deepl
+Get information from Lancelot
+랜슬롯에게 정보 얻기
+
+Deepl
+Begin the assault
+공격 시작
+
+Deepl
+Breach the Camelot headquarters
+카멜롯 본부 침입하기
+
+Deepl
+Find the entrance to the safe room
+안전실 입구 찾기
+
+Deepl
+Kill Merlin
+멀린 죽이기
+
+Deepl
+Check on Eve
+Eve에서 확인
+
+Deepl
+Kill Arthur
+아서 죽이기
+
+Deepl
+Find the leader of the 'Ardboys
+'아드보이즈'의 리더 찾기
+
+Deepl
+Convince Hobbes to back the 5th Column
+홉스가 제 5열을 지지하도록 설득하기
+
+Deepl
+Meet Hobbes in the ring
+링에서 홉스를 만나보기
+
+Deepl
+Duel Hobbes
+결투 홉스
+
+Deepl
+Speak to Hobbes
+홉스와 대화하기
+
+Deepl
+Travel to Charterhouse with the 'Ardboys
+아드보이와 함께 차터하우스로 여행하기
+
+Deepl
+Enter Charterhouse
+차터하우스 입장하기
+
+Deepl
+Confront Miller with the 'Ardboys
+'아드보이스'와 함께 밀러와 대결하기
+
+Deepl
+Defeat Miller in a duel
+결투에서 밀러 처치하기
+
+Deepl
+Speak with Hobbes
+홉스들과 대화하기
+
+Deepl
+Watch the execution
+처형 장면 보기
+
+Deepl
+Speak to Eve in her office
+이브의 사무실에서 이브와 대화하기
+
+Deepl
+Speak to Zach Lloyd
+잭 로이드와 대화하기
+
+Deepl
+Wait at the Drop-Off Point
+하차 지점에서 대기
+
+Deepl
+Defeat the Ambushers
+매복자 처치하기
+
+Deepl
+Report Back to Zach Lloyd
+잭 로이드에게 보고하기
+
+Deepl
+Make contact with Jeff Mutt
+제프 머트와 접촉하기
+
+Deepl
+Clear out the church in Wandsworth
+완즈워스의 교회 정리하기
+
+Deepl
+Return to Jeff Mutt
+제프 머트에게 돌아가기
+
+Deepl
+Return to the church
+교회로 돌아가기
+
+Deepl
+Wait to ambush the Knights
+기사단 매복 대기
+
+Deepl
+(Optional) Place a trap at the church door
+(선택 사항) 교회 문에 함정 배치하기
+
+Deepl
+Take down Lancelot and kill his allies
+랜슬롯을 쓰러뜨리고 아군 처치하기
+
+Deepl
+Let Horatio question Lancelot
+호레이쇼가 랜슬롯을 심문하게 하기
+
+Deepl
+(Optional) Search Lancelot's room
+(선택 사항) 랜슬롯의 방 수색하기
+
+Deepl
+(Optional) Confront Rhys Clarke
+(선택 사항) 리스 클라크와 대면하기
+
+Deepl
+Return to Zach Lloyd
+잭 로이드에게 돌아가기
+
+Deepl
+Report to Eve
+이브에게 보고하기
+
+Deepl
+Help at White Farm
+화이트 농장의 도움
+
+Deepl
+Ask around
+주변에 물어보기
+
+Deepl
+Report back to Frederick
+프레드릭에게 보고하기
+
+Deepl
+Investigate object in water
+물속 물체 조사
+
+Deepl
+Gain access to the submarine
+잠수함에 접근하기
+
+Deepl
+Investigate the submarine
+잠수함을 조사하기
+
+Deepl
+Acquire a language module
+언어 모듈 획득
+
+Deepl
+(Optional) Talk to Otto
+(선택 사항) 오토와 대화하기
+
+Deepl
+(Optional) Talk to Hans
+(선택 사항) 한스와 대화하기
+
+Deepl
+Return to the submarine
+잠수함으로 돌아가기
+
+Deepl
+Talk to Otto
+오토와 대화하기
+
+Deepl
+Get back to the submarine
+잠수함으로 돌아가기
+
+Deepl
+Follow Hans
+한스 따라가기
+
+Deepl
+Install the circuit and talk to Kant
+회로 설치 및 칸트와 대화하기
+
+Deepl
+Find a way to stop Kant
+칸트를 막을 방법 찾기
+
+Deepl
+Talk to Hans and Otto
+한스 및 오토와 대화하기
+
+Deepl
+Check the first blinking coordinate
+첫 번째 깜박이는 좌표 확인
+
+Deepl
+Check the second blinking coordinate
+두 번째 깜박이는 좌표 확인
+
+Deepl
+Check the third blinking coordinate
+세 번째 깜박이는 좌표 확인
+
+Deepl
+Check the fourth blinking coordinate
+네 번째 깜박이는 좌표 확인
+
+Deepl
+Check the fifth blinking coordinate
+다섯 번째 깜박이는 좌표 확인
+
+Deepl
+Check the final blinking coordinate
+마지막 깜박이는 좌표 확인
+
+Deepl
+Unlock the terminal and stop Kant for good
+터미널을 잠금 해제하고 칸트를 영원히 멈추기
+
+Deepl
+Accept your fate
+운명을 받아들이기
+
+Deepl
+Speak with Syd
+시드와 대화해
+
+Deepl
+Wait for Syd to finish writing
+시드가 글을 다 쓸 때까지 기다리기.
+
+Deepl
+Check in with Syd
+시드에게 체크인
+
+Deepl
+Talk to the Vagabond
+베가본드와 대화하기
+
+Deepl
+Check the back alley for Syd
+뒷골목에서 시드를 찾아보기
+
+Deepl
+Find Syd
+시드 찾기
+
+Deepl
+Rescue Segolene from the Tommy Outpost
+토미 전초기지에서 세골린 구출하기
+
+Deepl
+(Optional) Speak to Sgt Williams
+(선택 사항) 윌리엄스 경사와 대화하기
+
+Deepl
+Find another way to rescue Segolene
+세골레네를 구출할 다른 방법 찾기
+
+Deepl
+Collect 25 each of 9mm rounds, 308 rounds and Fusion Cells for Sgt Williams
+윌리엄스 경사를 위해 9mm 탄환, 308 탄환, 퓨전 셀을 각각 25발씩 모으기
+
+Deepl
+Return to Sgt Williams
+윌리엄스 경사에게 돌아가기
+
+Deepl
+Release Segolene
+세골린 풀어주기
+
+Deepl
+Return to the Normans
+노먼에게 돌아가기
+
+Deepl
+Speak to Segolene
+세골린와 대화하기
+
+Deepl
+Gain entrance to the boat
+보트에 입장하기
+
+Deepl
+(Optional) Find a Tommy Uniform
+(선택 사항) 토미 유니폼 찾기
+
+Deepl
+Let the Normans in
+노르만인 들여보내기
+
+Deepl
+Wait for the Normans to cross
+노먼이 건너올 때까지 기다리기
+
+Deepl
+Steal the boat
+보트 훔치기
+
+Deepl
+Speak to the Normans
+노먼와 대화하기
+
+Deepl
+Kill Eugene
+유진 죽이기
+
+Deepl
+Acquire coal for Segolene
+세골렌을 위한 석탄 획득하기
+
+Deepl
+Return to Segolene
+세골렌에게 돌아가기
+
+Deepl
+Acquire munitions for Eugene
+유진을 위한 군수품 획득하기
+
+Deepl
+Speak to Monty
+몬티와 대화하기
+
+Deepl
+Kill Monty
+몬티 죽이기
+
+Deepl
+Return to Eugene
+유진에게 돌아가기
+
+Deepl
+Return to the aeroplane
+비행기로 돌아가기
+
+Deepl
+Clear out the Dryads
+드라이아드 처치하기
+
+Deepl
+Return to Thameshaven
+템즈헤븐으로 돌아가기
+
+Deepl
+Clear out the Stingwings
+스팅윙 섬멸하기
+
+Deepl
+Return to the Angel Lab 
+앤젤 실험실로 돌아가기
+
+Deepl
+Not much here, guess we'll head out...
+여긴 별로 없으니 나가볼까...
+
+Deepl
+Grab the holotape from the terminal
+터미널에서 홀로테이프 가져가기
+
+Deepl
+Talk to Archie about the tape outside
+밖에 있는 아치와 테이프에 대해 이야기하기
+
+Deepl
+Travel to Eastminster
+이스트민스터로 여행하기
+
+Deepl
+Locate the Tommy Outpost
+토미 전초기지 위치 찾기
+
+Deepl
+Learn what happened to the Tommies
+토미들에게 무슨 일이 일어났는지 알아보기
+
+Deepl
+Find out where the Tommies went
+토미가 어디로 갔는지 알아내기
+
+Deepl
+Locate the Tommies to the Southeast
+남동쪽으로 토미들 위치 찾기
+
+Deepl
+Help the Tommies defeat the Hooligans 
+토미가 훌리건을 물리치도록 도와주기.
+
+Deepl
+Learn what happened to Archie’s parents
+아치의 부모님에게 무슨 일이 있었는지 알아보기
+
+Deepl
+Wait a while for Archie to open up
+아치가 열릴 때까지 잠시 기다리기
+
+Deepl
+Archie seems to want to give me something.
+아치가 나한테 줄 게 있대요
+
+Deepl
+Go to the basement of the Pilgrim Pub
+필그림 펍 지하로 가자.
+
+Deepl
+Survive a minute with Mad Jack
+매드 잭과 1분 생존하기
+
+Deepl
+Talk to Mad Jack in his office
+매드 잭의 사무실에서 매드 잭과 대화하기
+
+Deepl
+Retrieve your things
+물건 회수하기
+
+Deepl
+Talk to Jeanine, Kelpe's secretary
+켈페의 비서 제닌과 대화하기
+
+Deepl
+Find a copy of Pericles near the Thames
+템즈강 근처에서 페리클레스 사본 찾기
+
+Deepl
+Find a copy of King John in Camden
+캠든에서 존 왕의 사본 찾기
+
+Deepl
+Find a copy of Troilus and Cressida in Islington
+이슬링턴에서 트로일러스와 크레시다의 사본을 찾아보기.
+
+Deepl
+Find a copy of Richard II at the Theatre Royal
+극장 로열에서 리처드 2세의 사본을 찾아보기.
+
+Deepl
+Find a copy of Henry VII at the Imperial War Museum
+대영제국 전쟁 박물관에서 헨리 7세 복제본 찾기
+
+Deepl
+Find a copy of Cymbeline at Westminster Abbey
+웨스트민스터 사원에서 심바인의 사본 찾기
+
+Deepl
+Find a copy of Timon of Athens in Brixton
+브릭스턴에서 아테네의 티몬 사본 찾기
+
+Deepl
+Find a copy of Two Gentlemen of Verona in Bromley
+브롬리에서 베로나의 두 신사 사본 찾기
+
+Deepl
+(Optional) Get Safe Key from Amber
+(선택 사항) 앰버에게서 안전 열쇠 받기
+
+Deepl
+Return to Kelpe with the plays
+연극을 가지고 켈페로 돌아가기
+
+Deepl
+Talk to Jeanine about The History of Cardenio
+제닌에게 카데르니오의 역사에 대해 이야기하기
+
+Deepl
+Tell Kelpe that the History of Cardenio is lost
+켈페에게 카데르니오의 역사를 잃어버렸다고 말하기
+
+Deepl
+Find a copy of The History of Cardenio in Greenwich
+그리니치에서 카데르니오의 역사 사본 찾기
+
+Deepl
+Confront Jeanine about her lie
+제닌의 거짓말에 대해 제닌과 대면하기
+
+Deepl
+Tell Kelpe that Jeanine lied
+켈페에게 제닌이 거짓말을 했다고 말하기
+
+Deepl
+Speak to Reverend Francis
+프란시스 목사와 대화하기
+
+Deepl
+Ask where to find the hymnals
+찬송가를 어디서 찾을 수 있는지 문의
+
+Deepl
+Collect the hymnal at the Police Station
+경찰서에서 찬송가 수령하기
+
+Deepl
+Collect the hymnal at Bromley College
+브롬리 대학에서 찬송가 수집하기
+
+Deepl
+Collect the hymnal at the Museum
+박물관에서 찬송가 수집하기
+
+Deepl
+Collect the hymnal at the airport
+공항에서 찬송가 수집하기
+
+Deepl
+Return to Reverend Francis
+프란시스 목사에게 돌아가기
+
+Deepl
+Check on the choir in a week
+일주일 후 성가대 확인
+
+Deepl
+Return to the choir
+합창단으로 돌아가기
+
+Deepl
+Let Mountbatten down
+마운트배튼을 내려줘
+
+Deepl
+Talk to Mountbatten
+마운트배튼과 대화하기
+
+Deepl
+Talk to the fish
+물고기와 대화하기
+
+Deepl
+Find some Sardines for the fish
+물고기를 위한 정어리 찾기
+
+Deepl
+Return the Sardines to the fish
+정어리를 물고기에게 돌려주기
+
+Deepl
+Talk to Gentry Footman
+젠트리 풋맨과 대화하기
+
+Deepl
+Meet Penelope Shah
+페넬로페 샤 만나기
+
+Deepl
+Head to Townhouse Auction
+타운하우스 경매로 이동
+
+Deepl
+(Optional) Ask Footman for help with auction
+(선택 사항) 풋맨에게 경매에 대한 도움 요청하기
+
+Deepl
+Get ready for an auction
+경매 준비하기
+
+Deepl
+Buy a house in Westminster
+웨스트민스터에서 주택 구매하기
+
+Deepl
+Return to Penelope Shah
+페넬로페 샤로 돌아가기
+
+Deepl
+Visit the Wellington Arch
+웰링턴 아치 방문하기
+
+Deepl
+Visit Wellington Arch and Listen to the causes
+웰링턴 아치를 방문하여 원인 듣기
+
+Deepl
+Choose the Social Club
+소셜 클럽 선택하기
+
+Deepl
+The Mugwumps Society: Bring Harry Headger's head to Baroness Robin Bettencourt
+머그웜프스 협회: 해리 헤드거의 머리를 로빈 베텐쿠르트 남작부인에게 가져다주기.
+
+Deepl
+The Aluminium Chapeus: Find pigeon for Earl Wakefield
+알루미늄 샤페우스: 웨이크필드 백작을 위한 비둘기 찾기
+
+Deepl
+The Tea & Garden Club: Read the pre-war gardening catalogue
+티 & 가든 클럽: 전쟁 전 원예 카탈로그 읽기
+
+Deepl
+The Tea & Garden Club: Return to Madame Stephanie Coates
+더 티 앤 가든 클럽: 마담 스테파니 코츠에게 돌아가다
+
+Deepl
+The Mugwumps Society: Return to Baroness Robin Bettencourt
+머그웜프스 협회: 로빈 베텐쿠르트 남작부인으로 돌아가기
+
+Deepl
+The Aluminium Chapeus: Return to Earl Wakefield
+알루미늄 샤푸스: 얼 웨이크필드로 돌아가기
+
+Deepl
+Visit your new house
+새 집 방문하기
+
+Deepl
+Talk to the Ferryman
+페리맨과 대화하기
+
+Deepl
+Find clues to the missing Thamesfolk
+실종된 템즈포크에 대한 단서 찾기
+
+Deepl
+Follow the trail
+흔적을 따라가기
+
+Deepl
+Talk to the Factory Guard
+공장 경비원과 대화하기
+
+Deepl
+Ask Factory Workers About Blood Trail
+공장 노동자에게 핏자국에 대해 물어보기
+
+Deepl
+Find a way into the Restricted Zone
+제한 구역으로 들어가는 길 찾기
+
+Deepl
+Defeat the Snatchers
+스내처 처치하기
+
+Deepl
+Investigate the area
+지역 조사하기
+
+Deepl
+Convince Cal to tell you what's going on
+칼에게 무슨 일이 일어나고 있는지 말하도록 설득하기
+
+Deepl
+Defeat Cal
+칼 처치
+
+Deepl
+Find evidence
+증거 찾기
+
+Deepl
+(Optional) Stop the operation
+(선택 사항) 작업 중지
+
+Deepl
+Speak to the factory boss
+공장 사장와 대화하기
+
+Deepl
+Meet Giovanni at the pub
+펍에서 지오바니 만나기
+
+Deepl
+Find the supplies in the lorry
+트럭에서 보급품 찾기
+
+Deepl
+Search St Pancras for maintenance records
+세인트 판크라스에서 유지보수 기록 검색하기
+
+Deepl
+Find the ticket machine at Euston Underground Station
+유스턴 지하철역에서 매표기 찾기
+
+Deepl
+Put the ink in the ticket machine
+매표기에 잉크 넣기
+
+Deepl
+Print the tickets
+티켓 인쇄하기
+
+Deepl
+Return to Giovanni
+지오바니에게 돌아가기
+
+Deepl
+Speak to Derek Castor
+데릭 캐스터와 대화하기
+
+Deepl
+Take over Parliament
+의회를 점령하기
+
+Deepl
+Enter the House of Commons
+하원에 입장하기
+
+Deepl
+Take your place at the dispatch box
+디스패치 박스에서 자리 잡기
+
+Deepl
+Climb the Elizabeth Tower
+엘리자베스 타워 오르기
+
+Deepl
+Meet your maker
+자신의 제작자를 만나보기
+
+Deepl
+Claim your fortune
+재산 수령하기
+
+Deepl
+Defeat Smythe
+스마이스 처치하기
+
+Deepl
+Investigate Camden TV Station
+캠든 방송국 조사
+
+Deepl
+Look for communications equipment
+통신 장비 찾기
+
+Deepl
+Hunt for more clues on "Lady G"
+"레이디 G"에 대한 더 많은 단서 찾기
+
+Deepl
+Find the scarlet chariot at the Natural History Museum
+자연사 박물관에서 주홍색 전차를 찾기.
+
+Deepl
+Check out other cell
+다른 감방 확인
+
+Deepl
+Escape the cells
+감방 탈출하기
+
+Deepl
+Find something rusty
+녹슨 물건 찾기
+
+Deepl
+Give Kiera the grill rack
+키에라에게 그릴 선반 전달하기
+
+Deepl
+Find Lady G within the Natural History Museum
+자연사 박물관에서 레이디 G를 찾기
+
+Deepl
+Find the treasure stash
+보물 보관함 찾기
+
+Deepl
+Meet Mad Jack at the Pilgrim
+필그림에서 매드 잭을 만나보기
+
+Deepl
+Kill "Professor" James Goodrich
+"교수" 제임스 굿리치 처치하기
+
+Deepl
+Kill Jonah "The Gent"
+"신사" 조나 처치하기
+
+Deepl
+Kill Myra Lane
+마이라 레인 죽이기
+
+Deepl
+Kill the Meat Merchant
+육류 상인 처치하기
+
+Deepl
+Find evidence that Todd Wells is the Meat Merchant (Optional)
+토드 웰스가 육류 상인이라는 증거 찾기 (선택 사항)
+
+Deepl
+Talk to Mad Jack
+매드 잭과 대화하기
+
+Deepl
+Head to The Ross Home For Orphaned Boys
+고아 소년들을 위한 로스 고아원으로 향하기
+
+Deepl
+Find Dr Ross
+로스 박사 찾기
+
+Deepl
+Kill Dr. Ainsley Ross
+아인슬리 로스 박사 처치하기
+
+Deepl
+Meet Arthur back at Camelot
+카멜롯에서 아더를 만나기
+
+Deepl
+Wait 7 days for the battle preparations
+전투 준비를 위해 7일간 기다리기
+
+Deepl
+Go to Westminster Bridge
+웨스트민스터 다리로 이동
+
+Deepl
+Listen to Arthur's speech
+아더의 연설 듣기
+
+Deepl
+Launch the trebuchet
+트레버켓 발사하기
+
+Deepl
+Take control of Parliament Square
+국회의사당 광장 장악하기
+
+Deepl
+Raise the Camelot banner
+카멜롯 깃발 올리기
+
+Deepl
+Take over Downing Street
+다우닝 스트리트 점령하기
+
+Deepl
+Gain entry to 10 Downing Street through the Cabinet War Rooms
+내각 회의실을 통해 다우닝가 10번지로 가기
+
+Deepl
+Take over Admiralty Arch
+애드미럴티 아치 점령
+
+Deepl
+Open the gate for reinforcements
+지원군을 위한 게이트 열기
+
+Deepl
+Take over the Broadcasting House
+방송국 점령하기
+
+Deepl
+Plan A: Destroy the trebuchet on Westminster Bridge
+계획 A: 웨스트민스터 다리의 트레버켓을 파괴하기
+
+Deepl
+Plan B: Block the underground tunnel beneath Waterloo
+계획 B: 워터루 다리 아래 지하 터널을 막기
+
+Deepl
+Enter Westminster via the other front
+다른 전선을 통해 웨스트민스터로 진입하기
+
+Deepl
+Take down the enemy flags (<Global=FOLON_MQAngel309_Counter01>/2)
+적 깃발을 쓰러뜨린다 (<Global=FOLON_MQAngel309_Counter01>/2)
+
+Deepl
+Retake Downing Street from the insurgents
+반란군으로부터 다우닝 가를 탈환하기
+
+Deepl
+Take down the Camelot flag
+카멜롯 깃발을 쓰러뜨리기
+
+Deepl
+Retake Admiralty Arch from the insurgents
+반란군으로부터 애드미럴티 아치를 탈환하기
+
+Deepl
+Close the gate to block off enemy reinforcements
+성문을 닫아 적 지원군을 차단하기
+
+Deepl
+Retake the Broadcasting House from the insurgents
+반란군으로부터 방송국을 탈환하기
+
+Deepl
+Take down the Fifth Column flag
+제5열 깃발 쓰러뜨리기
+
+Deepl
+Talk to Mountbatten about his list
+마운트배튼과 그의 목록에 대해 이야기하기
+
+Deepl
+Buy a fancy drink at the Westminster pub
+웨스트민스터 펍에서 멋진 술 한잔하기
+
+Deepl
+Option 1: Tell Arthur the bottle's gone
+옵션 1: 아서에게 술병이 없어졌다고 말하기
+
+Deepl
+Option 2: Buy the second-best bottle
+옵션 2: 두 번째로 좋은 술병 구입하기
+
+Deepl
+Option 3: Retrieve a bottle from the brewery
+옵션 3: 양조장에서 병 하나 가져오기
+
+Deepl
+Get Arthur's locket back from Drood
+드루드에게 아서의 목걸이 되찾기
+
+Deepl
+Option 1: Tell Arthur you can't get the locket
+옵션 1: 아서에게 로켓을 구할 수 없다고 말하기
+
+Deepl
+Option 2: Buy the locket from Drood
+옵션 2: 드루드에게 로켓 구입하기
+
+Deepl
+Option 3: Steal the locket from Drood
+옵션 3: 드루드에게서 로켓 훔치기
+
+Deepl
+ Build a well in Brickton
+브릭턴에 우물을 만들기
+
+Deepl
+Option 1: Invest the minimum amount needed in the well
+옵션 1: 우물에 필요한 최소 금액을 투자하기.
+
+Deepl
+Option 2: Invest the optimal amount needed in the well
+옵션 2: 우물에 필요한 최적의 금액 투자하기
+
+Deepl
+Option 3: Retrieve the building materials
+옵션 3: 건축 자재 가져오기
+
+Deepl
+Tell Arthur the Mountbatten Well has been built
+아서에게 마운트배튼 우물이 지어졌다고 말하기
+
+Deepl
+Find the place where Arthur's parents are buried
+아서의 부모님이 묻힌 장소 찾기
+
+Deepl
+Option 1: Recreate the funeral ceremony
+옵션 1: 장례식 재현하기
+
+Deepl
+Option 2: Search through St. Leonard's records to find the burial place
+옵션 2: 성 레너드의 기록을 검색하여 매장 장소를 찾기
+
+Deepl
+Option 2: Go to New Chapel Cemetary
+옵션 2: 새 채플 묘지로 이동하기
+
+Deepl
+See the sunset with Arthur
+아서와 함께 일몰 감상하기
+
+Deepl
+Meet Eve back at headquarters
+본부에서 이브를 만나기
+
+Deepl
+Go to the Waterloo Waterworks
+워터루 상수도로 가기
+
+Deepl
+Open the gates!
+성문 열기!
+
+Deepl
+Raise the 5th Column banner
+제 5열 배너를 올리기
+
+Deepl
+Take the Guitar
+기타를 가져가기
+
+Deepl
+Pay off your debt to Scott
+스콧에게 빚을 갚기
+
+Deepl
+Find Footballs for Rat piss
+쥐 오줌 축구공 찾기
+
+Deepl
+Talk to the settlers at <Alias=ActualLocation>
+<Alias=ActualLocation>에 있는 정착민과 대화하기
+
+Deepl
+Kill the ghouls in <Alias=GhoulDungeon>
+<Alias=GhoulDungeon>에서 구울을 섬멸하기
+
+Deepl
+Report your success to settlers at <Alias=ActualLocation>
+<Alias=ActualLocation>의 정착민들에게 성공했음을 보고하기
+
+Deepl
+Talk to Preston Garvey
+프레스턴 가비와 대화하기
+
+Deepl
+Talk to the settlers at <Alias=CheckpointLocation>
+<Alias=CheckpointLocation>의 정착민과 대화하기
+
+Deepl
+Secure the workshop at <Alias=HostileWorkshopLocation>
+<Alias=HostileWorkshopLocation>의 작업장을 확보하기
+
+Deepl
+Report your success to settlers at <Alias=CheckpointLocation>
+<Alias=CheckpointLocation>의 정착민에게 성공했다고 보고하기
+
+Deepl
+Travel to <Alias=ActualLocation>
+<Alias=ActualLocation>에 찾아가기
+
+Deepl
+Build <Alias=TroubleName> in <Alias=ActualLocation> (<Global=MinRadiantOwned06Percent>%)
+<Alias=ActualLocation>에 <Alias=TroubleName> 짓기 (<Global=MinRadiantOwned06Percent>%)
+
+Deepl
+Report your success
+성공했다고 보고하기
+
+Deepl
+Clear <Alias=HostileWorkshopLocation>
+<Alias=HostileWorkshopLocation>의 적을 섬멸하기
+
+Deepl
+Build and activate Recruitment Radio Beacon
+모집용 신호 송출기를 설치하고 작동시키기
+
+Deepl
+Kill the Super Mutants in <Alias=Dungeon>
+<Alias=Dungeon>에서 슈퍼 뮤턴트를 섬멸하기
+
+Deepl
+Build defenses (<Global=MinRadiantOwned08SafetyPercent>%)
+방어 시설을 건설하기 (<Global=MinRadiantOwned08SafetyPercent>%)
+
+Deepl
+Help defend <Alias=ActualLocation>
+<Alias=ActualLocation>의 방어를 도우기
+
+Deepl
+Talk to people of <Alias=ActualLocation>
+<Alias=ActualLocation>의 사람들과 대화하기
+
+Deepl
+Decide what to do about suspected synth
+신스 의심자의 거취를 결정하기
+
+Deepl
+(Optional) Pay the ransom (<Global=MinRecruit02Ransom> Caps)
+(선택) 몸값을 지불하기(<Global=MinRecruit02Ransom> 병뚜껑)
+
+Deepl
+Rescue <Alias=KidnappedActor> from <Alias=KidnapperDungeon>
+<Alias=KidnapperDungeon>에서 <Alias=KidnappedActor> 구출하기
+
+Deepl
+Report back to settlers at <Alias=ActualLocation>
+<Alias=ActualLocation> 정착민에게 돌아가 보고하기
+
+Deepl
+Build defenses (<Global=MinRadiantOwned01SafetyPercent>%)
+방어 시설을 건설하기 (<Global=MinRadiantOwned01SafetyPercent>%)
+
+Deepl
+Kill the raiders in <Alias=RaiderDungeon>
+<Alias=RaiderDungeon>의 레이더를 섬멸하기
+
+Deepl
+Report your success to the people of <Alias=ActualLocation>
+<Alias=ActualLocation>의 사람들에게 자신의 성공을 보고하기
+
+Deepl
+Explore <Alias=Dungeon> and recover the <Alias=Item>
+<Alias=Dungeon>을 탐험하고 <Alias=Item>을 회수하기
+
+Deepl
+(Optional) Pay the ransom (<Global=MinRadiantOwned03Ransom> Caps)
+(선택) 몸값을 지불하기 (<Global=MinRadiantOwned03Ransom> 병뚜껑)
+
+Deepl
+Rescue the kidnapped trader from <Alias=KidnapperDungeon>
+<Alias=KidnapperDungeon>에 납치된 상인을 구하기
+
+Deepl
+Report back to the people of <Alias=ActualLocation>
+<Alias=ActualLocation> 정착민에게 돌아가 보고하기
+
+Deepl
+Build defenses
+방어시설을 건설하기
+
+Deepl
+Travel to Abernathy Farm
+애버네시 농장으로 이동하기
+
+Deepl
+Retrieve Mary's Locket in USAF Satellite Station Olivia
+미 공군 올리비아 위성 기지에서 메리의 목걸이를 찾기
+
+Deepl
+Report your success to Blake Abernathy
+블레이크 애버네시에게 보고하기
+
+Deepl
+Kill the Courser
+추적자를 처치하기
+
+Deepl
+Build defenses (<Global=MinRadiantOwned05SafetyPercent>%)
+방어 시설을 건설하기 (<Global=MinRadiantOwned05SafetyPercent>%)
+
+Deepl
+Build/Repair a generator (<Global=MinRadiantOwned07Percent>%)
+발전기 설치/수리 (<Global=MinRadiantOwned07Percent>%)
+
+Deepl
+(Optional) Locate 2 Gears in <Alias=Dungeon>
+(선택) 2개의 기어를 <Alias=Dungeon>에 설치하기
+
+Deepl
+Go to Islington Public Library
+아일링턴 공립 도서관으로 이동
+
+Deepl
+Enter the Library
+도서관으로 들어가기
+
+Deepl
+Explore the Library
+도서관을 탐색하기
+
+Deepl
+Open the Gate
+게이트 열기
+
+Deepl
+Follow John Smith
+존 스미스 따라가기
+
+Deepl
+Enter Observation Room
+관찰실로 들어가기
+
+Deepl
+Investigate the Scene
+현장 조사하기
+
+Deepl
+Find more Evidence
+더 많은 증거 찾기
+
+Deepl
+Speak to John
+존과 대화하기
+
+Deepl
+Message In a Bottle - Blood Stained Note
+병 속의 메시지 - 피 묻은 노트
+
+Deepl
+Message In a Bottle - Azathoth Rise!
+병 속의 메시지 - 아자토스 부활!
+
+Deepl
+Message in a Bottle - Congratulations!
+병 속의 메시지 - 축하해요!
+
+Deepl
+Message in a Bottle - Help me...
+병 속의 메시지 - 도와주세요...
+
+Deepl
+Message in a Bottle - Little Yellow Micro
+병 속의 메시지 - 리틀 옐로우 마이크로
+
+Deepl
+Message in a Bottle - A Grand Expedition
+병 속의 메시지 - 대원정대
+
+Deepl
+Hang five Traditionalists posters
+전통주의자 포스터 5장 걸기
+
+Deepl
+Hang five Pragmatists posters
+실용주의자 포스터 5장 달기
+
+Deepl
+Visit your new home in Camden
+캠든의 새 집을 방문하기
+
+Deepl
+Find Krazy Kaylah's lost marbles
+크레이지 케일라의 잃어버린 구슬 찾기
+
+Deepl
+Return Krazy Kaylah's lost marbles
+크레이지 케일라의 잃어버린 구슬 돌려주기
+
+Deepl
+Find Unusual Call Boxes (<Global=Folon_GLOB_LQLondon100Counter>/15)
+특이한 통화 상자 찾기 (<Global=Folon_GLOB_LQLondon100Counter>/15)
+
+Deepl
+Travel to the Police Box coordinates
+파출소 좌표로 이동하기
+
+Deepl
+Find Prospero's Book
+프로스페로의 책 찾기
+
+Deepl
+Return Prospero's Book to Reece
+프로스페로의 책을 리스에게 돌려주기
+
+Deepl
+(Optional) Speak to the leader of the Croydonians
+(선택 사항) 크로이도니아인의 지도자와 대화하기
+
+Deepl
+Speak to Miss Crake
+미스 크레이크와 대화하기
+
+Deepl
+Make an appointment for a NuSkin treatment
+뉴스킨 트리트먼트 예약하기
+
+Deepl
+Speak to Nurse Peggy
+페기 간호사와 대화하기
+
+Deepl
+Enter the Restricted Section of NuSkin
+뉴스킨의 제한 구역으로 들어가기
+
+Deepl
+Speak to the Child
+아이와 대화하기
+
+Deepl
+(Optional) Find out what happened to Renara
+(선택 사항) 레나라에게 무슨 일이 있었는지 알아보기
+
+Deepl
+Find out what is happening at NuSkin
+뉴스킨에서 무슨 일이 일어나고 있는지 알아보기
+
+Deepl
+Access Miss Crake's Terminal
+미스 크레이크의 터미널에 액세스
+
+Deepl
+Tell Nurse Peggy of your findings
+간호사 페기에게 조사 결과를 말하기
+
+Deepl
+Kill Miss Crake and eliminate the Robots
+미스 크레이크를 죽이고 로봇을 제거하기
+
+Deepl
+Speak to Caspian
+캐스피언과 대화하기
+
+Deepl
+Speak to the people of Eastminster
+이스트민스터 주민들과 대화하기
+
+Deepl
+Investigate the Bank of England vault
+영국 은행 금고 조사
+
+Deepl
+Open the Bank of England vault
+영국은행 금고 열기
+
+Deepl
+Visit the NuSkin facility
+뉴스킨 시설 방문
+
+Deepl
+Listen to Nick's pitch
+닉의 음성을 들어보기
+
+Deepl
+Help out Nick
+닉을 도와주기
+
+Deepl
+Find the lost cargo
+잃어버린 화물 찾기
+
+Deepl
+Return the cargo to Nick
+닉에게 화물을 돌려주기
+
+Deepl
+Talk to Barry
+배리와 대화하기
+
+Deepl
+Retrieve Greenwich Observatory Data for Barry
+배리를 위해 그리니치 천문대 데이터 가져오기
+
+Deepl
+Return the Greenwich Observatory Data to Barry
+그리니치 천문대 데이터를 배리에게 돌려주기
+
+Deepl
+Find the <Alias=Weapon> in <Alias=Dungeon>
+<Alias=Dungeon>에서 <Alias=Weapon>를 찾기
+
+Deepl
+Look for the gun in <Alias=Dungeon>
+<Alias=Dungeon>에서 총 찾기
+
+Deepl
+Search for caps in <Alias=Dungeon>
+<Alias=Dungeon>에서 병뚜껑 찾기
+
+Deepl
+Investigate the object beneath the Thames in Southwark
+사우스워크 템즈 강 밑의 물체를 조사하기.
+
+Deepl
+Learn about Nuka-Cola and Ion Brew (<Global=Folon_GLOB_LQCity105Counter>/8)
+누카콜라와 이온 브루에 대해 알아보기 (<Global=Folon_GLOB_LQCity105Counter>/8)
+
+Deepl
+Get involved in election season procedures
+선거 시즌 절차에 참여하기
+
+Deepl
+Catch a ride on the Westminster train line after exploring the crash site
+사고 현장을 둘러본 후 웨스트민스터 기차 탑승하기
+
+Deepl
+Meet the Trafalgar Square Greeter
+트라팔가 광장 맞이꾼을 만나보기
+

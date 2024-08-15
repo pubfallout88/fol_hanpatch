@@ -285,6 +285,43 @@ def XML2TextUnique(target,xml_file, out_txtfile):
     write_file.close()
     print(f"total {len(UniqueTextList)}")        
 
+def XML2Master(tag,xml_file, out_txtfile):
+    
+    UniqueTextList = set()
+    eng_string_array = []
+    kor_string_array = []    
+    
+    tree = ET.parse(xml_file)
+    root = tree.getroot()
+    Params = root.find('Params')
+    Params_Addon = Params.find('Addon').text
+    Params_Source = Params.find('Source').text
+    Params_Dest = Params.find('Dest').text
+    Params_Version = Params.find('Version').text
+
+    Content = root.find('Content')
+    for item in Content.findall('String'):
+        Source = item.find('Source').text
+        Dest = item.find('Dest').text
+        
+        Source = Source.replace("\x0D", "<CR>").replace("\x0A", "<LF>")
+        Dest = Dest.replace("\x0D", "<CR>").replace("\x0A", "<LF>")
+
+        if Source not in UniqueTextList:
+            UniqueTextList.add(Source)
+            eng_string_array.append(Source)
+            kor_string_array.append(Dest)
+    
+    write_file = open(out_txtfile,"w+",encoding='utf-8-sig')
+    for i in range(len(eng_string_array)):
+        write_file.write(tag)
+        write_file.write('\n')
+        write_file.write(eng_string_array[i])
+        write_file.write('\n')
+        write_file.write(kor_string_array[i])
+        write_file.write('\n')
+        write_file.write('\n')
+    write_file.close()  
 
 
 def TwoFile2OneFile(tag, eng_file_path, kor_file_path, write_file_path):
@@ -574,7 +611,8 @@ def main():
         #TXT2XMLString("메인소스_팀왈도폴아웃4.txt", "LondonWorldSpace_1.01_org.xml", "LondonWorldSpace_1.01_org_out.xml", 0)
         #TXT2XMLString("메인소스_폴런던기계번역문장.txt", "LondonWorldSpace_1.01_org_out.xml", "LondonWorldSpace_1.01_org_xTranslator입력용.xml", 1)
         
-        ChecktranslatedFile("마스터파일_폴런던기계번역문장.txt")
+        XML2Master("Deepl","LondonWorldSpace_1.01_쿼스트.xml", "마스터파일_퀘스트QUST NNAM.txt")
+        #ChecktranslatedFile("마스터파일_폴런던기계번역문장.txt")
         #Patch("메인소스_폴런던기계번역문장.txt","메인소스_손번역패치.txt","메인소스_폴런던기계번역문장2.txt")
         #CheckXMLFinal("LondonWorldSpace_1.01_org_xTranslator입력용.xml","번역안하는스트링(확인용).txt")
 
