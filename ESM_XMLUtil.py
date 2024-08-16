@@ -50,7 +50,7 @@ def TXT2TXT_E1(txt_file, write_file_path):
     write_file.close()
         
 
-def TXT2XMLString(txt_file, xml_file, out_xmlfile, multi):
+def TXT2XMLString(txt_file, xml_file, out_xmlfile, arg_multi):
 
     # 여기서부터는 텍스트 파일
 
@@ -115,6 +115,7 @@ def TXT2XMLString(txt_file, xml_file, out_xmlfile, multi):
         SourceStrip = Source.strip()
 
         #터미널은 영문병기 제외
+        multi=arg_multi
         if rec.find("TERM:")==0:
             multi=0
         
@@ -613,10 +614,10 @@ def main():
         #XML2TextUnique(0,"LondonWorldSpace_1.01_org_en_en.xml","out.txt")
         #TwoFile2OneFile("DeepL","번역기용문장.txt","번역된문장.txt","메인텍스트.txt")
         
-        #TXT2XMLString("메인소스_팀왈도폴아웃4.txt", "LondonWorldSpace_1.01_org.xml", "LondonWorldSpace_1.01_org_out.xml", 0)
-        #TXT2XMLString("메인소스_폴런던기계번역문장.txt", "LondonWorldSpace_1.01_org_out.xml", "LondonWorldSpace_1.01_org_xTranslator입력용.xml", 1)
+        #TXT2XMLString("마스터파일_팀왈도폴아웃4.txt", "LondonWorldSpace_1.01_org.xml", "LondonWorldSpace_1.01_org_out.xml", 0)
+        TXT2XMLString("마스터파일_폴런던기계번역문장.txt", "LondonWorldSpace_1.01_org_out.xml", "LondonWorldSpace_1.01_org_xTranslator입력용.xml", 1)
         
-        XML2Master("Deepl","LondonWorldSpace_1.01_쿼스트.xml", "마스터파일_퀘스트QUST NNAM.txt")
+        #XML2Master("Deepl","LondonWorldSpace_1.01_쿼스트.xml", "마스터파일_퀘스트QUST NNAM.txt")
         #ChecktranslatedFile("마스터파일_폴런던기계번역문장.txt")
         #Patch("메인소스_폴런던기계번역문장.txt","메인소스_손번역패치.txt","메인소스_폴런던기계번역문장2.txt")
         #CheckXMLFinal("LondonWorldSpace_1.01_org_xTranslator입력용.xml","번역안하는스트링(확인용).txt")
