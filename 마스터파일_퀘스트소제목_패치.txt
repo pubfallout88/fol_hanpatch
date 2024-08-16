@@ -3088,7 +3088,7 @@ Escape!
 
 Deepl
 Return the evidence to Mr Tommy
-토미 씨에게 증거물 돌려주기
+토미에게 증거물 가지고 가기
 
 Deepl
 Get the Sheet Music

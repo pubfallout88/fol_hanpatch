@@ -84,6 +84,7 @@ def TXT2XMLString(txt_file, xml_file, out_xmlfile, multi):
                 step = 0
                 eng_string = eng_string.replace("<CR><LF>","\n").strip()
                 eng_string = eng_string.replace("<CR>","\x0D").replace("<LF>","\x0A").strip()
+                kor_string = kor_string.replace("<CR><LF>","\n").strip()
                 kor_string = kor_string.replace("<CR>","\x0D").replace("<LF>","\x0A").strip()
                 DictionaryList[eng_string] = kor_string
 
@@ -112,11 +113,15 @@ def TXT2XMLString(txt_file, xml_file, out_xmlfile, multi):
         Source = item.find('Source').text
         Dest = item.find('Dest').text
         SourceStrip = Source.strip()
+
+        #터미널은 영문병기 제외
+        if rec.find("TERM:")==0:
+            multi=0
         
         # 입력받은 텍스트 파일에서 String에서 텍스트 치환
         # 현재 폴런던 1.01 버전에서 REFR:FULL에 해당하는 지명을 번역하면 이동이 안되는 버그가 있어서 REFR:FULL은 제외시킴
         # 범용적으로 쓰려면 아래 조건문 제거 필요
-
+        
         if rec!="REFR:FULL" and rec!="WRLD:FULL":
             if SourceStrip in DictionaryList:
                 if multi==0:
